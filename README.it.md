@@ -1,4 +1,6 @@
 # Stranieri di Milano
+[See the English translation](https://github.com/Gabri432/foreigners-in-milan/blob/master/README.md)
+
 Milano viene spesso considerata come una città internazionale, ma quanto lo è veramente?
 
 In questo progetto noi cerchiamo di tenere traccia di esattamente quanto. Nello specifico, andremo ad analizzare il numero di stranieri, la loro origine, la loro distribuzione nella città, e la qualità della loro vita nel corso degli ultimi decenni.

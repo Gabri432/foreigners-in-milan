@@ -1,4 +1,6 @@
 # Foreigners of Milan
+[See the Italian translation](https://github.com/Gabri432/foreigners-in-milan/blob/master/README.it.md)
+
 Milan is often considered as an international city, but how international is it really?
 
 In this project we are going to track exactly how much. Specifically, we will find out the number of foreigner residents, their origins, their distribution within the city, and their quality of life during the last decades.
