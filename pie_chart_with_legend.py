@@ -39,7 +39,7 @@ wedges, _ = ax.pie(
     startangle=90,
     wedgeprops={'edgecolor': 'black'},
     #colors=["red", "orange", "yellow", "lightgreen", "green", "blue", "skyblue", "purple", "pink", "brown", "gray", "lightgrey"]
-    colors=["#001166", "#001188", "#0011AA", "#0022AA", "#0033AA", "#0044BB", "#0044CC", "#0055DD", "#0055EE", "#0077FF", "#00AAFF", "#22EEFF"]
+    colors=["white", "#000066", "#001188", "#0011AA", "#0022AB", "#0033AB", "#0044CC", "#0055EE", "#0088FF", "#00ABFF", "#22EEFF"]
 )
 
 fig.suptitle(

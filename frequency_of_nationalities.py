@@ -19,7 +19,7 @@ filtered_nationalities = filtered_nationalities.sort_values(by='Residenti', asce
 
 plt.figure(figsize=(12, 6))
 plt.bar(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residenti'], 
-        color=["#001166", "#001188", "#0011AA", "#0022AA", "#0033AA", "#0044BB", "#0044CC", "#0055DD", "#0055EE", "#0077FF", "#00AAFF", "#22EEFF"], 
+        color=["#000066", "#001188", "#0011AA", "#0022AB", "#0033AB", "#0044CC", "#0055EE", "#0088FF", "#00ABFF", "#22EEFF", "#22EEFF", "#22EEFF"], 
         width=0.3)
 plt.xlabel('Nazionalità')
 plt.ylabel('Cittadini')
