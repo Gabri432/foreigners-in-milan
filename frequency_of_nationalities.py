@@ -7,7 +7,7 @@ people = pd.read_csv('datasets/ds75_stranieri_sesso_citt.csv', sep=';', index_co
 
 starting_year = 2024
 ending_year = 2024
-min_value = 1000
+min_value = 5000
 
 recent_people = people[people['Anno'].between(starting_year, ending_year)]
 
@@ -17,13 +17,13 @@ filtered_nationalities = nationality_frequencies[nationality_frequencies['Reside
 
 filtered_nationalities = filtered_nationalities.sort_values(by='Residenti', ascending=False)
 
-print(filtered_nationalities)
-
 plt.figure(figsize=(12, 6))
-plt.bar(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residenti'], color='skyblue')
-plt.xlabel('Nationalities')
-plt.ylabel('Citizens')
-plt.title(f'Nationalities exceeding {min_value} people')
-plt.xticks(rotation=80)
+plt.bar(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residenti'], 
+        color=["#001166", "#001188", "#0011AA", "#0022AA", "#0033AA", "#0044BB", "#0044CC", "#0055DD", "#0055EE", "#0077FF", "#00AAFF", "#22EEFF"], 
+        width=0.3)
+plt.xlabel('Nazionalità')
+plt.ylabel('Cittadini')
+plt.xticks(fontsize=12)
+plt.title(f'Nazionalità che superano le {min_value} persone')
 plt.tight_layout()
 plt.show()

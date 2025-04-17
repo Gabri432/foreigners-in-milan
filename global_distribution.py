@@ -15,7 +15,6 @@ fig = px.choropleth(nationality_frequencies,
                     locationmode="country names",
                     color="Residenti",
                     hover_name="Residenti",
-                    color_continuous_scale=px.colors.sequential.tempo,
-                    title=(f"Nationality of foreigners in Milan in {year}"))
+                    color_continuous_scale=px.colors.sequential.tempo)
 
 fig.show()

@@ -38,18 +38,19 @@ wedges, _ = ax.pie(
     labels=None,
     startangle=90,
     wedgeprops={'edgecolor': 'black'},
-    colors=["red", "orange", "yellow", "lightgreen", "green", "blue", "skyblue", "purple", "pink", "brown", "gray", "lightgrey"]
+    #colors=["red", "orange", "yellow", "lightgreen", "green", "blue", "skyblue", "purple", "pink", "brown", "gray", "lightgrey"]
+    colors=["#001166", "#001188", "#0011AA", "#0022AA", "#0033AA", "#0044BB", "#0044CC", "#0055DD", "#0055EE", "#0077FF", "#00AAFF", "#22EEFF"]
 )
 
 fig.suptitle(
-    f"Most common foreign nationalities in Milan above {minimum_amount} people, in {starting_year}",
+    f"Nazionalità più comuni a Milano sopra le {minimum_amount} persone, nel {starting_year}",
     x=0.5,
     y=0.95,
     fontsize=16,
     fontweight='bold'
 )
 
-ax.legend(wedges, legend_labels, title="Nationalities", loc="center", bbox_to_anchor=(1, 0, 0.5, 1))
+ax.legend(wedges, legend_labels, title="Nazionalità", loc="center", bbox_to_anchor=(1, 0, 0.5, 1))
 
 plt.tight_layout()
 plt.show()

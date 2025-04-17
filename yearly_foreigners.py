@@ -29,9 +29,9 @@ def sequence(starting_year, ending_year, jump_years):
     plt.figure(figsize=(12, 6))
     plt.bar(amounts['year'], amounts['total'], color='skyblue')
     #a.plot(legend=False)
-    plt.xlabel('Year')
-    plt.ylabel('Citizens')
-    plt.title(f'Foreigners between {starting_year} and {ending_year} in Milan')
+    plt.xlabel('Anno')
+    plt.ylabel('Cittadini')
+    plt.title(f'Stranieri tra il {starting_year} e il {ending_year} a Milano')
     plt.tight_layout()
     plt.show()
 

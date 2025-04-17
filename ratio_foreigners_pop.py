@@ -33,13 +33,13 @@ def sequence(starting_year, ending_year, jump_years):
         begin = begin+jump_years
 
     plt.figure(figsize=(12, 6))
-    plt.bar(amounts['year'], amounts["foreigners_pop"], color='dodgerblue', label='Foreigners')
-    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Locals')
+    plt.bar(amounts['year'], amounts["foreigners_pop"], color='dodgerblue', label='Stranieri')
+    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Italiani')
     #plt.bar(amounts['year'], amounts['ratio_pop'], color='skyblue')
     plt.legend(loc='upper left')
-    plt.xlabel('Year')
-    plt.ylabel('Total Population (in Millions)')
-    plt.title(f'Amount of foreigners within the population between {starting_year} and {ending_year} in Milan')
+    plt.xlabel('Anno')
+    plt.ylabel('Popolazione totale (in milioni)')
+    plt.title(f'Popolazione straniera rispetto a quella totale tra il {starting_year} e il {ending_year} a Milano')
     plt.tight_layout()
     plt.show()
 
