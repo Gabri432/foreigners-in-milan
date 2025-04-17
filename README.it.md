@@ -15,3 +15,5 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
 ## Note
 - Questo progetto ha usato Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
 - Questo progetto è stato sviluppato usando Visual Studio Code;
+- Il dataset originale (file csv) "Popolazione: residenti per cittadinanza e quartiere (1999-2024)" è di circa 144 Mb, superiore al limite di Github di 100 Mb. Dunque ho usato un dataset semplificato per non infrangere questo limite.
+- Nel dataset semplificato, i nomi di molti quartieri sono stati semplificati per essere in linea con [questa lista](https://it.wikipedia.org/wiki/Categoria:Quartieri_di_Milano) di quartieri.
