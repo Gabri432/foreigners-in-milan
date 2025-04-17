@@ -27,6 +27,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Foreigners between 2004 and 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreigners%20between%202004%20and%202024%20in%20Milan.png)
     - [global_plot (Global Distribution of foreigners)](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/global_plot.png)
     - [Pie chart of nationalities above 10k](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Pie%20chart%20of%20nationalities%20above%2010k.png)
+    - [Distribution of foreigners within Milan in 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Distribution%20of%20Foreigners%20in%20Milan%202024.png)
 
 - .gitignore
 - [foreigners_of_milan.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/foreigners_of_milan.pdf)
