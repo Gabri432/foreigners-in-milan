@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-plt.style.use('fivethirtyeight')
+plt.style.use('default')
 
 people = pd.read_csv('datasets/ds75_stranieri_sesso_citt.csv', sep=';', index_col=False)
 population = pd.read_csv('datasets/ds1494_popolazione-calcolata-dal-1880.csv', sep=';', index_col=False)

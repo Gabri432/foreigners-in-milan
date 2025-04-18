@@ -3,7 +3,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import geopandas as gpd
 
-plt.style.use('fivethirtyeight')
+plt.style.use('default')
 
 year = 2024
 
