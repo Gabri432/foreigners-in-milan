@@ -18,9 +18,10 @@ filtered_nationalities = nationality_frequencies[nationality_frequencies['Reside
 filtered_nationalities = filtered_nationalities.sort_values(by='Residenti', ascending=True) #ascending=False
 
 plt.figure(figsize=(12, 6))
+plt.grid(True, axis='x',zorder=0)
 plt.barh(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residenti'], 
         color=["#22EEFF", "#22EEFF", "#22EEFF", "#00ABFF", "#0088FF", "#0055EE", "#0044CC", "#0033AB", "#0022AB", "#0011AA", "#001188", "#000066"], 
-        height=0.3)
+        height=0.3, zorder=2)
 #plt.bar(...width=0.3)
 plt.ylabel('Nazionalità')
 plt.xlabel('Cittadini')

@@ -27,7 +27,8 @@ def sequence(starting_year, ending_year, jump_years):
 
     #a = pd.DataFrame(amounts)
     plt.figure(figsize=(12, 6))
-    plt.bar(amounts['year'], amounts['total'], color='skyblue')
+    plt.grid(True, axis='y',zorder=0)
+    plt.bar(amounts['year'], amounts['total'], color='skyblue', zorder=2)
     #a.plot(legend=False)
     plt.xlabel('Anno')
     plt.ylabel('Cittadini')

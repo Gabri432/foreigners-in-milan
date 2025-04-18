@@ -33,8 +33,9 @@ def sequence(starting_year, ending_year, jump_years):
         begin = begin+jump_years
 
     plt.figure(figsize=(12, 6))
-    plt.bar(amounts['year'], amounts["foreigners_pop"], color='dodgerblue', label='Stranieri')
-    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Italiani')
+    plt.grid(True, axis='y',zorder=0)
+    plt.bar(amounts['year'], amounts["foreigners_pop"], color='dodgerblue', label='Stranieri', zorder=2)
+    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Italiani', zorder=2)
     #plt.bar(amounts['year'], amounts['ratio_pop'], color='skyblue')
     plt.legend(loc='upper left')
     plt.xlabel('Anno')
