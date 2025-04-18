@@ -27,7 +27,7 @@ def sequence(starting_year, ending_year, jump_years):
     amounts = {'year': [], 'tot_pop':[], 'foreigners_pop':[]}
     while begin < ending_year+jump_years:
         #amounts["tot_pop"].append(round(foreigners_pop(begin) / tot_pop(begin), 3))
-        amounts["tot_pop"].append(tot_pop(begin) / 1e6)
+        amounts["tot_pop"].append((tot_pop(begin) - foreigners_pop(begin)) / 1e6)
         amounts["foreigners_pop"].append(foreigners_pop(begin) / 1e6)
         amounts["year"].append(begin)
         begin = begin+jump_years
