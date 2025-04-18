@@ -5,11 +5,10 @@ plt.style.use('default')
 
 people = pd.read_csv('datasets/ds75_stranieri_sesso_citt.csv', sep=';', index_col=False)
 
-starting_year = 2024
-ending_year = 2024
+year = 2024
 minimum_amount = 10000
 
-recent_people = people[people['Anno'].between(starting_year, ending_year)]
+recent_people = people[people['Anno'].eq(year)]
 
 nationality_frequencies = recent_people.groupby('Cittadinanza')['Residenti'].sum().reset_index()
 
@@ -43,7 +42,7 @@ wedges, _ = ax.pie(
 )
 
 fig.suptitle(
-    f"Nazionalità più comuni a Milano sopra le {minimum_amount} persone, nel {starting_year}",
+    f"Nazionalità più comuni a Milano sopra le {minimum_amount} persone, nel {year}",
     x=0.5,
     y=0.95,
     fontsize=16,
