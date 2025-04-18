@@ -30,7 +30,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [Distribution of foreigners within Milan in 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Distribution%20of%20Foreigners%20in%20Milan%202024.png)
 
 - .gitignore
-- [foreigners_of_milan_presentazione.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/foreigners_of_milan_presentazione.pdf)
+- [presentazione.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/presentazione.pdf)
 - [global_distribution.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/global_distribution.py)
 - [ratio_foreigners_pop.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/ratio_foreigners_pop.py)
 - [pie_chart_with_legend.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/pie_chart_with_legend.py)
