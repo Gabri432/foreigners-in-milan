@@ -1,10 +1,11 @@
 experimental/
 ds27_pop_sto_quartiere.csv
-foreigners_of_milan.tex
-foreigners_of_milan.log
-foreigners_of_milan.fdb_latexmk
-foreigners_of_milan.aux
-foreigners_of_milan.fls
+presentazione.tex
+presentazione.log
+presentazione.fdb_latexmk
+presentazione.aux
+presentazione.fls
+presentazione.synctex.gz
 foreigners_of_milan.synctex.gz
 foreigners_of_milan_presentazione.tex
 foreigners_of_milan_presentazione.log
@@ -12,3 +13,4 @@ foreigners_of_milan_presentazione.fdb_latexmk
 foreigners_of_milan_presentazione.aux
 foreigners_of_milan_presentazione.fls
 foreigners_of_milan_presentazione.synctex.gz
+foreigners_of_milan_presentazione.pdf
