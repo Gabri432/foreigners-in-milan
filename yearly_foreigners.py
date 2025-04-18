@@ -32,7 +32,7 @@ def sequence(starting_year, ending_year, jump_years):
     #a.plot(legend=False)
     plt.xlabel('Anno')
     plt.ylabel('Cittadini')
-    plt.title(f'Stranieri tra il {starting_year} e il {ending_year} a Milano')
+    #plt.title(f'Stranieri tra il {starting_year} e il {ending_year} a Milano')
     plt.tight_layout()
     plt.show()
 

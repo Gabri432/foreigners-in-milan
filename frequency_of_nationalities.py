@@ -5,11 +5,10 @@ plt.style.use('default')
 
 people = pd.read_csv('datasets/ds75_stranieri_sesso_citt.csv', sep=';', index_col=False)
 
-starting_year = 2024
-ending_year = 2024
+year = 2024
 min_value = 5000
 
-recent_people = people[people['Anno'].between(starting_year, ending_year)]
+recent_people = people[people['Anno'].eq(year)]
 
 nationality_frequencies = recent_people.groupby('Cittadinanza')['Residenti'].sum().reset_index()
 
@@ -26,6 +25,6 @@ plt.barh(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residen
 plt.ylabel('Nazionalità')
 plt.xlabel('Cittadini')
 plt.xticks(fontsize=12)
-plt.title(f'Nazionalità che superano le {min_value} persone')
+#plt.title(f'Nazionalità che superano le {min_value} persone')
 plt.tight_layout()
 plt.show()
