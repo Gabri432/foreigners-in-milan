@@ -12,6 +12,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
 - [Calculated/Estimated population - historical series since 1880](https://www.dati.gov.it/view-dataset/dataset?id=8d6d9168-2128-416f-910b-e76b29cdbf5c)
 - [Population: residents per nationality and city zone (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=8f2dd42b-23a5-439d-ab56-be02295f4290)
 - [CURRENT local identity nuclei (NIL) - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
+- [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 
 ## Project structure
 - Main folder

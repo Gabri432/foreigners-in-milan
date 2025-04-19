@@ -12,6 +12,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
 - [Popolazione calcolata - serie storica dal 1880](https://www.dati.gov.it/view-dataset/dataset?id=8d6d9168-2128-416f-910b-e76b29cdbf5c)
 - [Popolazione: residenti per cittadinanza e quartiere (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=8f2dd42b-23a5-439d-ab56-be02295f4290)
 - [Nuclei d'Identità Locale (NIL) VIGENTI - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
+- [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 
 ## Struttura del progetto
 - Cartella principale
