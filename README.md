@@ -31,15 +31,16 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Distribution of foreigners within Milan in 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Distribution%20of%20Foreigners%20in%20Milan%202024.png)
 
 - .gitignore
-- [presentazione.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/presentazione.pdf)
-- [global_distribution.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/global_distribution.py)
-- [ratio_foreigners_pop.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/ratio_foreigners_pop.py)
-- [pie_chart_with_legend.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/pie_chart_with_legend.py)
-- [yearly_foreigners.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/yearly_foreigners.py)
-- [frequency_of_nationalities.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/frequency_of_nationalities.py)
+- scripts (folder)
+    - [global_distribution.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/global_distribution.py)
+    - [ratio_foreigners_pop.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/ratio_foreigners_pop.py)
+    - [pie_chart_with_legend.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/pie_chart_with_legend.py)
+    - [yearly_foreigners.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/yearly_foreigners.py)
+    - [frequency_of_nationalities.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/frequency_of_nationalities.py)
+    - [foreigners_per_age.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_per_age.py)
+    - [pie_chart_for_ages.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/pie_chart_for_ages.py)
 
 ## Notes
 - This project used Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
 - This project was developped using Visual Studio Code;
-- The original dataset (csv file) "Population: residents per nationality and city zone (1999-2024)" is about 144 Mb, exceeding the limit of Github of 100 Mb. Therefore I have used a simplified dataset to fit within such contraints.
-- In the simplified dataset, most neighborhood names were simplified to match [this list](https://it.wikipedia.org/wiki/Categoria:Quartieri_di_Milano) of neiborhood.
+- The original dataset (csv file) "Population: residents per nationality and city zone (1999-2024)" is about 144 Mb, exceeding the limit of Github of 100 Mb. Therefore on github it is present a simplified dataset to fit within such contraints.
