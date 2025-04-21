@@ -31,6 +31,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Distribution of foreigners within Milan in 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Distribution%20of%20Foreigners%20in%20Milan%202024.png)
     - [Ratio foreigners Italians 2004](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Ratio%20foreigners%20Italians%202004.png)
     - [Ratio foreigners Italians 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Ratio%20foreigners%20Italians%202024.png)
+    - [Foreign Students 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreign%20Students%202024.png)
 
 - .gitignore
 - scripts (folder)
