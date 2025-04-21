@@ -42,6 +42,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [frequency_of_nationalities.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/frequency_of_nationalities.py)
     - [foreigners_per_age.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_per_age.py)
     - [pie_chart_for_ages.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/pie_chart_for_ages.py)
+    - [high_school_foreigners.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/high_school_foreigners.py)
 
 ## Note
 - Questo progetto ha usato Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
