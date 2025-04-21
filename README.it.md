@@ -34,7 +34,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [Foreign Students 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreign%20Students%202024.png)
 
 - .gitignore
-- [presentazione.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/presentazione.pdf)
+- [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
 - scripts (cartella)
     - [global_distribution.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/global_distribution.py)
     - [ratio_foreigners_pop.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/ratio_foreigners_pop.py)
