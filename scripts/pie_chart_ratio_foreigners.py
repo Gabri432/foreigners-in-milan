@@ -30,15 +30,17 @@ ratios.plot.pie(
     colors=["#22EEFF", "#0099FF"],
     startangle=90,
     labeldistance=None,
-    autopct='%1.2f%%'
+    wedgeprops={"alpha": 0.5},
+    autopct='%1.2f%%',
+    explode=[0.07] * len(ratios.values)
 )
 
 ax.legend(
     labels=ratios.index,
-    title=f"Categorie ({year})",
+    title=f"Popolazione ({year})",
     loc="center right",
     bbox_to_anchor=(1, 0, 0.2, 1),
-    title_fontsize='x-large'
+    title_fontsize='large'
 )
 
 plt.tight_layout()

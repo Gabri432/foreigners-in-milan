@@ -32,13 +32,14 @@ labels2 = [f'1° anno - {sizes2[0]:.2f}%',
            f'4° anno - {sizes2[3]:.2f}%',
            f'5° anno - {sizes2[4]:.2f}%']
 
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 6))
+#fig, ax = plt.figure(1, 2, figsize=(12, 6))
+fig, ax = plt.subplots(figsize=(12, 6))
 
-ax1.pie(sizes1, labels=labels1, wedgeprops={'width': 0.4}, startangle=90, colors=["#22EEFF", "#00ABFF"])
-ax1.set_title('Rapporto tra studenti stranieri ed italiani delle scuole superiori')
+ax.pie(sizes1, labels=labels1, wedgeprops={'width': 0.4, "alpha": 0.5}, startangle=90, colors=["#22EEFF", "#00ABFF"])
+ax.set_title('Rapporto tra studenti stranieri ed italiani delle scuole superiori')
 
-ax2.pie(sizes2, labels=labels2, wedgeprops={'width': 0.4}, startangle=90, colors=["#00ABFF", "#0055EE", "#0044CC", "#0033AB", "#0022AB"])
-ax2.set_title('Percentuali alunni stranieri delle scuole superiori per anno di corso')
+#ax2.pie(sizes2, labels=labels2, wedgeprops={'width': 0.4}, startangle=90, colors=["#00ABFF", "#0055EE", "#0044CC", "#0033AB", "#0022AB"])
+#ax2.set_title('Percentuali alunni stranieri delle scuole superiori per anno di corso')
 
 plt.tight_layout()
 plt.show()
