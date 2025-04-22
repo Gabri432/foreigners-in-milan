@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 foreigners = pd.read_csv('datasets/ds75_stranieri_sesso_citt.csv', sep=';', index_col=False)
 population = pd.read_csv('datasets/ds1494_popolazione-calcolata-dal-1880.csv', sep=';', index_col=False)
 
-year = 2004
+year = 2024
 
 def foreigners_pop(year):
     people_per_year = foreigners[foreigners['Anno'].eq(year)]
@@ -27,18 +27,18 @@ ratios = pd.Series(
 fig, ax = plt.subplots(figsize=(12, 12))
 ratios.plot.pie(
     ax=ax,
-    colors=["#22EEFF", "#0055EE"],
+    colors=["#22EEFF", "#0099FF"],
     startangle=90,
     labeldistance=None,
-    autopct='%1.2f%%',
-    wedgeprops={'edgecolor': 'black'}
+    autopct='%1.2f%%'
 )
 
 ax.legend(
     labels=ratios.index,
     title=f"Categorie ({year})",
     loc="center right",
-    bbox_to_anchor=(1, 0, 0.2, 1) 
+    bbox_to_anchor=(1, 0, 0.2, 1),
+    title_fontsize='x-large'
 )
 
 plt.tight_layout()

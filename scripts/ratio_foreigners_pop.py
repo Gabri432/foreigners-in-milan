@@ -26,21 +26,17 @@ def sequence(starting_year, ending_year, jump_years):
     begin = starting_year
     amounts = {'year': [], 'tot_pop':[], 'foreigners_pop':[]}
     while begin < ending_year+jump_years:
-        #amounts["tot_pop"].append(round(foreigners_pop(begin) / tot_pop(begin), 3))
         amounts["tot_pop"].append((tot_pop(begin) - foreigners_pop(begin)) / 1e6)
         amounts["foreigners_pop"].append(foreigners_pop(begin) / 1e6)
         amounts["year"].append(begin)
         begin = begin+jump_years
 
     plt.figure(figsize=(12, 6))
-    plt.grid(True, axis='y',zorder=0)
-    plt.bar(amounts['year'], amounts["foreigners_pop"], color='dodgerblue', label='Stranieri', zorder=2)
-    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Italiani', zorder=2)
-    #plt.bar(amounts['year'], amounts['ratio_pop'], color='skyblue')
+    plt.bar(amounts['year'], amounts["foreigners_pop"], color='orange', label='Stranieri', zorder=2, alpha=0.5)
+    plt.bar(amounts['year'], amounts["tot_pop"], bottom=amounts["foreigners_pop"], color='skyblue', label='Italiani', zorder=2, alpha=0.5)
     plt.legend(loc='upper left')
     plt.xlabel('Anno')
     plt.ylabel('Popolazione totale (in milioni)')
-    #plt.title(f'Popolazione straniera rispetto a quella totale tra il {starting_year} e il {ending_year} a Milano')
     plt.tight_layout()
     plt.show()
 

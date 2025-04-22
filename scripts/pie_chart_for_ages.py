@@ -13,8 +13,8 @@ recent_people = recent_people.dropna(subset=['Eta'])
 
 age_frequencies = recent_people.groupby('Eta')['Residenti'].sum().reset_index()
 
-labels =["0-17", "18-34", "35-49", "50-64", "65-100"]
-age_frequencies['bins'] = pd.cut(age_frequencies["Eta"],bins=[0, 18, 35, 50, 65, 101], labels=labels)
+labels =["0-17", "18-49", "50 in su"]
+age_frequencies['bins'] = pd.cut(age_frequencies["Eta"],bins=[0, 18, 50, 101], labels=labels)
 bins = age_frequencies.groupby('bins', observed=True)['Residenti'].sum()
 
 total = bins.values.sum()
@@ -29,8 +29,7 @@ wedges, _ = ax.pie(
     bins.values,
     labels=None,
     startangle=90,
-    wedgeprops={'edgecolor': 'black'},
-    colors=["#22EEFF", "#00ABFF", "#0055EE", "#0044CC", "#0033AB", "#0022AB", "#0011AA", "#001188", "#000066"]
+    colors=["#22EEFF", "#00ABFF", "#0055FF"],
 )
 
 fig.suptitle(
@@ -41,7 +40,7 @@ fig.suptitle(
     fontweight='bold'
 )
 
-ax.legend(wedges, legend_labels, title="Fasce d'età", loc="center", bbox_to_anchor=(1, 0, 0.5, 1))
+ax.legend(wedges, legend_labels, title="Fasce d'età", loc="center", bbox_to_anchor=(1, 0, 0.5, 1), title_fontsize='x-large')
 plt.tight_layout()
 plt.show()
 

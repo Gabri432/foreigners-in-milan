@@ -19,10 +19,9 @@ bins = age_frequencies.groupby('bins', observed=True)['Residenti'].sum()
 
 
 plt.figure(figsize=(12, 6))
-plt.grid(True, axis='y',zorder=0)
 plt.bar(bins.index.astype(str), bins.values, 
-        color=["#22EEFF", "#22EEFF", "#22EEFF", "#00ABFF", "#0088FF", "#0055EE", "#0044CC", "#0033AB", "#0022AB", "#0011AA", "#001188", "#000066"], 
-        width=0.3, zorder=2)
+        color=["#0022AB"], 
+        width=0.3, zorder=2, alpha=0.5)
 plt.ylabel('Cittadini')
 plt.xlabel('Anni di età')
 plt.xticks(fontsize=12)
