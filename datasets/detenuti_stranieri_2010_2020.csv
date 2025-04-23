@@ -1,0 +1,595 @@
+﻿_id,casa circondariale,anno_rilevazione_detenuti,indicatori,detenuti
+1,Casa Circondariale S.Vittore,2020,Capienza regolamentare,743
+2,Casa Circondariale S.Vittore,2020,Detenuti presenti al 31.12,921
+3,Casa Circondariale S.Vittore,2020,detenuti stranieri totale,555
+4,Casa Circondariale S.Vittore,2020,detenuti stranieri Ue,67
+5,Casa Circondariale S.Vittore,2020,detenuti stranieri Ex Jugoslavia,17
+6,Casa Circondariale S.Vittore,2020,detenuti stranieri Albania,26
+7,Casa Circondariale S.Vittore,2020,detenuti stranieri Altri paesi europei,12
+8,Casa Circondariale S.Vittore,2020,detenuti stranieri Tunisia,40
+9,Casa Circondariale S.Vittore,2020,detenuti stranieri Marocco,130
+10,Casa Circondariale S.Vittore,2020,detenuti stranieri Algeria,36
+11,Casa Circondariale S.Vittore,2020,detenuti stranieri Nigeria,10
+12,Casa Circondariale S.Vittore,2020,detenuti stranieri Altri paesi africani,105
+13,Casa Circondariale S.Vittore,2020,detenuti stranieri Medio oriente,7
+14,Casa Circondariale S.Vittore,2020,detenuti stranieri Altri paesi asiatici,52
+15,Casa Circondariale S.Vittore,2020,detenuti stranieri Nord America,0
+16,Casa Circondariale S.Vittore,2020,detenuti stranieri Centro America,12
+17,Casa Circondariale S.Vittore,2020,detenuti stranieri Sud America,41
+18,Casa Circondariale S.Vittore,2020,detenuti stranieri Altra provenienza,0
+19,Casa di Reclusione Bollate,2020,Capienza regolamentare,1251
+20,Casa di Reclusione Bollate,2020,Detenuti presenti al 31.12,1241
+21,Casa di Reclusione Bollate,2020,detenuti stranieri totale,455
+22,Casa di Reclusione Bollate,2020,detenuti stranieri Ue,60
+23,Casa di Reclusione Bollate,2020,detenuti stranieri Ex Jugoslavia,12
+24,Casa di Reclusione Bollate,2020,detenuti stranieri Albania,66
+25,Casa di Reclusione Bollate,2020,detenuti stranieri Altri paesi europei,9
+26,Casa di Reclusione Bollate,2020,detenuti stranieri Tunisia,22
+27,Casa di Reclusione Bollate,2020,detenuti stranieri Marocco,90
+28,Casa di Reclusione Bollate,2020,detenuti stranieri Algeria,7
+29,Casa di Reclusione Bollate,2020,detenuti stranieri Nigeria,10
+30,Casa di Reclusione Bollate,2020,detenuti stranieri Altri paesi africani,46
+31,Casa di Reclusione Bollate,2020,detenuti stranieri Medio oriente,2
+32,Casa di Reclusione Bollate,2020,detenuti stranieri Altri paesi asiatici,41
+33,Casa di Reclusione Bollate,2020,detenuti stranieri Nord America,0
+34,Casa di Reclusione Bollate,2020,detenuti stranieri Centro America,16
+35,Casa di Reclusione Bollate,2020,detenuti stranieri Sud America,74
+36,Casa di Reclusione Bollate,2020,detenuti stranieri Altra provenienza,0
+37,Casa di Reclusione Opera,2020,Capienza regolamentare,918
+38,Casa di Reclusione Opera,2020,Detenuti presenti al 31.12,1184
+39,Casa di Reclusione Opera,2020,detenuti stranieri totale,291
+40,Casa di Reclusione Opera,2020,detenuti stranieri Ue,27
+41,Casa di Reclusione Opera,2020,detenuti stranieri Ex Jugoslavia,9
+42,Casa di Reclusione Opera,2020,detenuti stranieri Albania,52
+43,Casa di Reclusione Opera,2020,detenuti stranieri Altri paesi europei,5
+44,Casa di Reclusione Opera,2020,detenuti stranieri Tunisia,16
+45,Casa di Reclusione Opera,2020,detenuti stranieri Marocco,67
+46,Casa di Reclusione Opera,2020,detenuti stranieri Algeria,3
+47,Casa di Reclusione Opera,2020,detenuti stranieri Nigeria,5
+48,Casa di Reclusione Opera,2020,detenuti stranieri Altri paesi africani,28
+49,Casa di Reclusione Opera,2020,detenuti stranieri Medio oriente,2
+50,Casa di Reclusione Opera,2020,detenuti stranieri Altri paesi asiatici,26
+51,Casa di Reclusione Opera,2020,detenuti stranieri Nord America,1
+52,Casa di Reclusione Opera,2020,detenuti stranieri Centro America,18
+53,Casa di Reclusione Opera,2020,detenuti stranieri Sud America,32
+54,Casa di Reclusione Opera,2020,detenuti stranieri Altra provenienza,0
+55,Casa Circondariale S.Vittore,2019,Capienza regolamentare,799
+56,Casa Circondariale S.Vittore,2019,Detenuti presenti al 31.12,984
+57,Casa Circondariale S.Vittore,2019,detenuti stranieri totale,575
+58,Casa Circondariale S.Vittore,2019,detenuti stranieri Ue,59
+59,Casa Circondariale S.Vittore,2019,detenuti stranieri Ex Jugoslavia,25
+60,Casa Circondariale S.Vittore,2019,detenuti stranieri Albania,35
+61,Casa Circondariale S.Vittore,2019,detenuti stranieri Altri paesi europei,11
+62,Casa Circondariale S.Vittore,2019,detenuti stranieri Tunisia,22
+63,Casa Circondariale S.Vittore,2019,detenuti stranieri Marocco,139
+64,Casa Circondariale S.Vittore,2019,detenuti stranieri Algeria,26
+65,Casa Circondariale S.Vittore,2019,detenuti stranieri Nigeria,20
+66,Casa Circondariale S.Vittore,2019,detenuti stranieri Altri paesi africani,109
+67,Casa Circondariale S.Vittore,2019,detenuti stranieri Medio oriente,7
+68,Casa Circondariale S.Vittore,2019,detenuti stranieri Altri paesi asiatici,53
+69,Casa Circondariale S.Vittore,2019,detenuti stranieri Nord America,0
+70,Casa Circondariale S.Vittore,2019,detenuti stranieri Centro America,15
+71,Casa Circondariale S.Vittore,2019,detenuti stranieri Sud America,53
+72,Casa Circondariale S.Vittore,2019,detenuti stranieri Altra provenienza,1
+73,Casa di Reclusione Bollate,2019,Capienza regolamentare,1252
+74,Casa di Reclusione Bollate,2019,Detenuti presenti al 31.12,1347
+75,Casa di Reclusione Bollate,2019,detenuti stranieri totale,451
+76,Casa di Reclusione Bollate,2019,detenuti stranieri Ue,57
+77,Casa di Reclusione Bollate,2019,detenuti stranieri Ex Jugoslavia,13
+78,Casa di Reclusione Bollate,2019,detenuti stranieri Albania,57
+79,Casa di Reclusione Bollate,2019,detenuti stranieri Altri paesi europei,10
+80,Casa di Reclusione Bollate,2019,detenuti stranieri Tunisia,21
+81,Casa di Reclusione Bollate,2019,detenuti stranieri Marocco,92
+82,Casa di Reclusione Bollate,2019,detenuti stranieri Algeria,3
+83,Casa di Reclusione Bollate,2019,detenuti stranieri Nigeria,8
+84,Casa di Reclusione Bollate,2019,detenuti stranieri Altri paesi africani,37
+85,Casa di Reclusione Bollate,2019,detenuti stranieri Medio oriente,1
+86,Casa di Reclusione Bollate,2019,detenuti stranieri Altri paesi asiatici,42
+87,Casa di Reclusione Bollate,2019,detenuti stranieri Nord America,1
+88,Casa di Reclusione Bollate,2019,detenuti stranieri Centro America,20
+89,Casa di Reclusione Bollate,2019,detenuti stranieri Sud America,88
+90,Casa di Reclusione Bollate,2019,detenuti stranieri Altra provenienza,1
+91,Casa di Reclusione Opera,2019,Capienza regolamentare,918
+92,Casa di Reclusione Opera,2019,Detenuti presenti al 31.12,1334
+93,Casa di Reclusione Opera,2019,detenuti stranieri totale,329
+94,Casa di Reclusione Opera,2019,detenuti stranieri Ue,27
+95,Casa di Reclusione Opera,2019,detenuti stranieri Ex Jugoslavia,7
+96,Casa di Reclusione Opera,2019,detenuti stranieri Albania,72
+97,Casa di Reclusione Opera,2019,detenuti stranieri Altri paesi europei,6
+98,Casa di Reclusione Opera,2019,detenuti stranieri Tunisia,20
+99,Casa di Reclusione Opera,2019,detenuti stranieri Marocco,71
+100,Casa di Reclusione Opera,2019,detenuti stranieri Algeria,5
+101,Casa di Reclusione Opera,2019,detenuti stranieri Nigeria,5
+102,Casa di Reclusione Opera,2019,detenuti stranieri Altri paesi africani,27
+103,Casa di Reclusione Opera,2019,detenuti stranieri Medio oriente,3
+104,Casa di Reclusione Opera,2019,detenuti stranieri Altri paesi asiatici,29
+105,Casa di Reclusione Opera,2019,detenuti stranieri Nord America,0
+106,Casa di Reclusione Opera,2019,detenuti stranieri Centro America,15
+107,Casa di Reclusione Opera,2019,detenuti stranieri Sud America,41
+108,Casa di Reclusione Opera,2019,detenuti stranieri Altra provenienza,1
+109,Casa Circondariale S.Vittore,2018,Capienza regolamentare,825
+110,Casa Circondariale S.Vittore,2018,Detenuti presenti al 31.12,984
+111,Casa Circondariale S.Vittore,2018,detenuti stranieri totale,599
+112,Casa Circondariale S.Vittore,2018,detenuti stranieri Ue,68
+113,Casa Circondariale S.Vittore,2018,detenuti stranieri Ex Jugoslavia,18
+114,Casa Circondariale S.Vittore,2018,detenuti stranieri Albania,52
+115,Casa Circondariale S.Vittore,2018,detenuti stranieri Altri paesi europei,12
+116,Casa Circondariale S.Vittore,2018,detenuti stranieri Tunisia,18
+117,Casa Circondariale S.Vittore,2018,detenuti stranieri Marocco,143
+118,Casa Circondariale S.Vittore,2018,detenuti stranieri Algeria,25
+119,Casa Circondariale S.Vittore,2018,detenuti stranieri Nigeria,17
+120,Casa Circondariale S.Vittore,2018,detenuti stranieri Altri paesi africani,120
+121,Casa Circondariale S.Vittore,2018,detenuti stranieri Medio oriente,5
+122,Casa Circondariale S.Vittore,2018,detenuti stranieri Altri paesi asiatici,43
+123,Casa Circondariale S.Vittore,2018,detenuti stranieri Nord America,1
+124,Casa Circondariale S.Vittore,2018,detenuti stranieri Centro America,11
+125,Casa Circondariale S.Vittore,2018,detenuti stranieri Sud America,65
+126,Casa Circondariale S.Vittore,2018,detenuti stranieri Altra provenienza,1
+127,Casa di Reclusione Bollate,2018,Capienza regolamentare,1252
+128,Casa di Reclusione Bollate,2018,Detenuti presenti al 31.12,1277
+129,Casa di Reclusione Bollate,2018,detenuti stranieri totale,413
+130,Casa di Reclusione Bollate,2018,detenuti stranieri Ue,47
+131,Casa di Reclusione Bollate,2018,detenuti stranieri Ex Jugoslavia,20
+132,Casa di Reclusione Bollate,2018,detenuti stranieri Albania,46
+133,Casa di Reclusione Bollate,2018,detenuti stranieri Altri paesi europei,10
+134,Casa di Reclusione Bollate,2018,detenuti stranieri Tunisia,19
+135,Casa di Reclusione Bollate,2018,detenuti stranieri Marocco,81
+136,Casa di Reclusione Bollate,2018,detenuti stranieri Algeria,5
+137,Casa di Reclusione Bollate,2018,detenuti stranieri Nigeria,3
+138,Casa di Reclusione Bollate,2018,detenuti stranieri Altri paesi africani,35
+139,Casa di Reclusione Bollate,2018,detenuti stranieri Medio oriente,3
+140,Casa di Reclusione Bollate,2018,detenuti stranieri Altri paesi asiatici,36
+141,Casa di Reclusione Bollate,2018,detenuti stranieri Nord America,1
+142,Casa di Reclusione Bollate,2018,detenuti stranieri Centro America,26
+143,Casa di Reclusione Bollate,2018,detenuti stranieri Sud America,80
+144,Casa di Reclusione Bollate,2018,detenuti stranieri Altra provenienza,1
+145,Casa di Reclusione Opera,2018,Capienza regolamentare,918
+146,Casa di Reclusione Opera,2018,Detenuti presenti al 31.12,1351
+147,Casa di Reclusione Opera,2018,detenuti stranieri totale,347
+148,Casa di Reclusione Opera,2018,detenuti stranieri Ue,41
+149,Casa di Reclusione Opera,2018,detenuti stranieri Ex Jugoslavia,12
+150,Casa di Reclusione Opera,2018,detenuti stranieri Albania,66
+151,Casa di Reclusione Opera,2018,detenuti stranieri Altri paesi europei,7
+152,Casa di Reclusione Opera,2018,detenuti stranieri Tunisia,27
+153,Casa di Reclusione Opera,2018,detenuti stranieri Marocco,77
+154,Casa di Reclusione Opera,2018,detenuti stranieri Algeria,5
+155,Casa di Reclusione Opera,2018,detenuti stranieri Nigeria,1
+156,Casa di Reclusione Opera,2018,detenuti stranieri Altri paesi africani,30
+157,Casa di Reclusione Opera,2018,detenuti stranieri Medio oriente,3
+158,Casa di Reclusione Opera,2018,detenuti stranieri Altri paesi asiatici,28
+159,Casa di Reclusione Opera,2018,detenuti stranieri Nord America,1
+160,Casa di Reclusione Opera,2018,detenuti stranieri Centro America,13
+161,Casa di Reclusione Opera,2018,detenuti stranieri Sud America,35
+162,Casa di Reclusione Opera,2018,detenuti stranieri Altra provenienza,1
+163,Casa Circondariale S.Vittore,2017,Capienza regolamentare,828
+164,Casa Circondariale S.Vittore,2017,Detenuti presenti al 31.12,1024
+165,Casa Circondariale S.Vittore,2017,detenuti stranieri totale,641
+166,Casa Circondariale S.Vittore,2017,detenuti stranieri Ue,72
+167,Casa Circondariale S.Vittore,2017,detenuti stranieri Ex Jugoslavia,15
+168,Casa Circondariale S.Vittore,2017,detenuti stranieri Albania,54
+169,Casa Circondariale S.Vittore,2017,detenuti stranieri Altri paesi europei,12
+170,Casa Circondariale S.Vittore,2017,detenuti stranieri Tunisia,33
+171,Casa Circondariale S.Vittore,2017,detenuti stranieri Marocco,167
+172,Casa Circondariale S.Vittore,2017,detenuti stranieri Algeria,20
+173,Casa Circondariale S.Vittore,2017,detenuti stranieri Nigeria,11
+174,Casa Circondariale S.Vittore,2017,detenuti stranieri Altri paesi africani,116
+175,Casa Circondariale S.Vittore,2017,detenuti stranieri Medio oriente,17
+176,Casa Circondariale S.Vittore,2017,detenuti stranieri Altri paesi asiatici,47
+177,Casa Circondariale S.Vittore,2017,detenuti stranieri Nord America,2
+178,Casa Circondariale S.Vittore,2017,detenuti stranieri Centro America,15
+179,Casa Circondariale S.Vittore,2017,detenuti stranieri Sud America,58
+180,Casa Circondariale S.Vittore,2017,detenuti stranieri Altra provenienza,2
+181,Casa di Reclusione Bollate,2017,Capienza regolamentare,1252
+182,Casa di Reclusione Bollate,2017,Detenuti presenti al 31.12,1242
+183,Casa di Reclusione Bollate,2017,detenuti stranieri totale,434
+184,Casa di Reclusione Bollate,2017,detenuti stranieri Ue,57
+185,Casa di Reclusione Bollate,2017,detenuti stranieri Ex Jugoslavia,19
+186,Casa di Reclusione Bollate,2017,detenuti stranieri Albania,51
+187,Casa di Reclusione Bollate,2017,detenuti stranieri Altri paesi europei,11
+188,Casa di Reclusione Bollate,2017,detenuti stranieri Tunisia,16
+189,Casa di Reclusione Bollate,2017,detenuti stranieri Marocco,87
+190,Casa di Reclusione Bollate,2017,detenuti stranieri Algeria,7
+191,Casa di Reclusione Bollate,2017,detenuti stranieri Nigeria,3
+192,Casa di Reclusione Bollate,2017,detenuti stranieri Altri paesi africani,39
+193,Casa di Reclusione Bollate,2017,detenuti stranieri Medio oriente,7
+194,Casa di Reclusione Bollate,2017,detenuti stranieri Altri paesi asiatici,32
+195,Casa di Reclusione Bollate,2017,detenuti stranieri Nord America,0
+196,Casa di Reclusione Bollate,2017,detenuti stranieri Centro America,25
+197,Casa di Reclusione Bollate,2017,detenuti stranieri Sud America,78
+198,Casa di Reclusione Bollate,2017,detenuti stranieri Altra provenienza,1
+199,Casa di Reclusione Opera,2017,Capienza regolamentare,918
+200,Casa di Reclusione Opera,2017,Detenuti presenti al 31.12,1351
+201,Casa di Reclusione Opera,2017,detenuti stranieri totale,367
+202,Casa di Reclusione Opera,2017,detenuti stranieri Ue,50
+203,Casa di Reclusione Opera,2017,detenuti stranieri Ex Jugoslavia,17
+204,Casa di Reclusione Opera,2017,detenuti stranieri Albania,63
+205,Casa di Reclusione Opera,2017,detenuti stranieri Altri paesi europei,6
+206,Casa di Reclusione Opera,2017,detenuti stranieri Tunisia,26
+207,Casa di Reclusione Opera,2017,detenuti stranieri Marocco,75
+208,Casa di Reclusione Opera,2017,detenuti stranieri Algeria,6
+209,Casa di Reclusione Opera,2017,detenuti stranieri Nigeria,2
+210,Casa di Reclusione Opera,2017,detenuti stranieri Altri paesi africani,31
+211,Casa di Reclusione Opera,2017,detenuti stranieri Medio oriente,3
+212,Casa di Reclusione Opera,2017,detenuti stranieri Altri paesi asiatici,29
+213,Casa di Reclusione Opera,2017,detenuti stranieri Nord America,1
+214,Casa di Reclusione Opera,2017,detenuti stranieri Centro America,16
+215,Casa di Reclusione Opera,2017,detenuti stranieri Sud America,42
+216,Casa di Reclusione Opera,2017,detenuti stranieri Altra provenienza,0
+217,Casa Circondariale S.Vittore,2016,Capienza regolamentare,750
+218,Casa Circondariale S.Vittore,2016,Detenuti presenti al 31.12,932
+219,Casa Circondariale S.Vittore,2016,detenuti stranieri totale,568
+220,Casa Circondariale S.Vittore,2016,detenuti stranieri Ue,91
+221,Casa Circondariale S.Vittore,2016,detenuti stranieri Ex Jugoslavia,18
+222,Casa Circondariale S.Vittore,2016,detenuti stranieri Albania,58
+223,Casa Circondariale S.Vittore,2016,detenuti stranieri Altri paesi europei,10
+224,Casa Circondariale S.Vittore,2016,detenuti stranieri Tunisia,30
+225,Casa Circondariale S.Vittore,2016,detenuti stranieri Marocco,131
+226,Casa Circondariale S.Vittore,2016,detenuti stranieri Algeria,10
+227,Casa Circondariale S.Vittore,2016,detenuti stranieri Nigeria,5
+228,Casa Circondariale S.Vittore,2016,detenuti stranieri Altri paesi africani,86
+229,Casa Circondariale S.Vittore,2016,detenuti stranieri Medio oriente,5
+230,Casa Circondariale S.Vittore,2016,detenuti stranieri Altri paesi asiatici,49
+231,Casa Circondariale S.Vittore,2016,detenuti stranieri Nord America,1
+232,Casa Circondariale S.Vittore,2016,detenuti stranieri Centro America,16
+233,Casa Circondariale S.Vittore,2016,detenuti stranieri Sud America,57
+234,Casa Circondariale S.Vittore,2016,detenuti stranieri Altra provenienza,1
+235,Casa di Reclusione Bollate,2016,Capienza regolamentare,1249
+236,Casa di Reclusione Bollate,2016,Detenuti presenti al 31.12,1179
+237,Casa di Reclusione Bollate,2016,detenuti stranieri totale,438
+238,Casa di Reclusione Bollate,2016,detenuti stranieri Ue,64
+239,Casa di Reclusione Bollate,2016,detenuti stranieri Ex Jugoslavia,19
+240,Casa di Reclusione Bollate,2016,detenuti stranieri Albania,64
+241,Casa di Reclusione Bollate,2016,detenuti stranieri Altri paesi europei,12
+242,Casa di Reclusione Bollate,2016,detenuti stranieri Tunisia,21
+243,Casa di Reclusione Bollate,2016,detenuti stranieri Marocco,79
+244,Casa di Reclusione Bollate,2016,detenuti stranieri Algeria,6
+245,Casa di Reclusione Bollate,2016,detenuti stranieri Nigeria,9
+246,Casa di Reclusione Bollate,2016,detenuti stranieri Altri paesi africani,34
+247,Casa di Reclusione Bollate,2016,detenuti stranieri Medio oriente,6
+248,Casa di Reclusione Bollate,2016,detenuti stranieri Altri paesi asiatici,35
+249,Casa di Reclusione Bollate,2016,detenuti stranieri Nord America,1
+250,Casa di Reclusione Bollate,2016,detenuti stranieri Centro America,21
+251,Casa di Reclusione Bollate,2016,detenuti stranieri Sud America,66
+252,Casa di Reclusione Bollate,2016,detenuti stranieri Altra provenienza,1
+253,Casa di Reclusione Opera,2016,Capienza regolamentare,905
+254,Casa di Reclusione Opera,2016,Detenuti presenti al 31.12,1234
+255,Casa di Reclusione Opera,2016,detenuti stranieri totale,349
+256,Casa di Reclusione Opera,2016,detenuti stranieri Ue,50
+257,Casa di Reclusione Opera,2016,detenuti stranieri Ex Jugoslavia,17
+258,Casa di Reclusione Opera,2016,detenuti stranieri Albania,63
+259,Casa di Reclusione Opera,2016,detenuti stranieri Altri paesi europei,7
+260,Casa di Reclusione Opera,2016,detenuti stranieri Tunisia,19
+261,Casa di Reclusione Opera,2016,detenuti stranieri Marocco,76
+262,Casa di Reclusione Opera,2016,detenuti stranieri Algeria,9
+263,Casa di Reclusione Opera,2016,detenuti stranieri Nigeria,1
+264,Casa di Reclusione Opera,2016,detenuti stranieri Altri paesi africani,25
+265,Casa di Reclusione Opera,2016,detenuti stranieri Medio oriente,3
+266,Casa di Reclusione Opera,2016,detenuti stranieri Altri paesi asiatici,29
+267,Casa di Reclusione Opera,2016,detenuti stranieri Nord America,1
+268,Casa di Reclusione Opera,2016,detenuti stranieri Centro America,11
+269,Casa di Reclusione Opera,2016,detenuti stranieri Sud America,38
+270,Casa di Reclusione Opera,2016,detenuti stranieri Altra provenienza,0
+271,Casa Circondariale S.Vittore,2015,Capienza regolamentare,750
+272,Casa Circondariale S.Vittore,2015,Detenuti presenti al 31.12,873
+273,Casa Circondariale S.Vittore,2015,detenuti stranieri totale,552
+274,Casa Circondariale S.Vittore,2015,detenuti stranieri Ue,97
+275,Casa Circondariale S.Vittore,2015,detenuti stranieri Ex Jugoslavia,10
+276,Casa Circondariale S.Vittore,2015,detenuti stranieri Albania,45
+277,Casa Circondariale S.Vittore,2015,detenuti stranieri Altri paesi europei,12
+278,Casa Circondariale S.Vittore,2015,detenuti stranieri Tunisia,33
+279,Casa Circondariale S.Vittore,2015,detenuti stranieri Marocco,126
+280,Casa Circondariale S.Vittore,2015,detenuti stranieri Algeria,20
+281,Casa Circondariale S.Vittore,2015,detenuti stranieri Nigeria,5
+282,Casa Circondariale S.Vittore,2015,detenuti stranieri Altri paesi africani,67
+283,Casa Circondariale S.Vittore,2015,detenuti stranieri Medio oriente,4
+284,Casa Circondariale S.Vittore,2015,detenuti stranieri Altri paesi asiatici,33
+285,Casa Circondariale S.Vittore,2015,detenuti stranieri Nord America,0
+286,Casa Circondariale S.Vittore,2015,detenuti stranieri Centro America,23
+287,Casa Circondariale S.Vittore,2015,detenuti stranieri Sud America,77
+288,Casa Circondariale S.Vittore,2015,detenuti stranieri Altra provenienza,0
+289,Casa di Reclusione Bollate,2015,Capienza regolamentare,1242
+290,Casa di Reclusione Bollate,2015,Detenuti presenti al 31.12,1096
+291,Casa di Reclusione Bollate,2015,detenuti stranieri totale,357
+292,Casa di Reclusione Bollate,2015,detenuti stranieri Ue,58
+293,Casa di Reclusione Bollate,2015,detenuti stranieri Ex Jugoslavia,20
+294,Casa di Reclusione Bollate,2015,detenuti stranieri Albania,52
+295,Casa di Reclusione Bollate,2015,detenuti stranieri Altri paesi europei,8
+296,Casa di Reclusione Bollate,2015,detenuti stranieri Tunisia,16
+297,Casa di Reclusione Bollate,2015,detenuti stranieri Marocco,58
+298,Casa di Reclusione Bollate,2015,detenuti stranieri Algeria,3
+299,Casa di Reclusione Bollate,2015,detenuti stranieri Nigeria,12
+300,Casa di Reclusione Bollate,2015,detenuti stranieri Altri paesi africani,29
+301,Casa di Reclusione Bollate,2015,detenuti stranieri Medio oriente,3
+302,Casa di Reclusione Bollate,2015,detenuti stranieri Altri paesi asiatici,31
+303,Casa di Reclusione Bollate,2015,detenuti stranieri Nord America,0
+304,Casa di Reclusione Bollate,2015,detenuti stranieri Centro America,13
+305,Casa di Reclusione Bollate,2015,detenuti stranieri Sud America,53
+306,Casa di Reclusione Bollate,2015,detenuti stranieri Altra provenienza,1
+307,Casa di Reclusione Opera,2015,Capienza regolamentare,911
+308,Casa di Reclusione Opera,2015,Detenuti presenti al 31.12,1284
+309,Casa di Reclusione Opera,2015,detenuti stranieri totale,355
+310,Casa di Reclusione Opera,2015,detenuti stranieri Ue,61
+311,Casa di Reclusione Opera,2015,detenuti stranieri Ex Jugoslavia,18
+312,Casa di Reclusione Opera,2015,detenuti stranieri Albania,72
+313,Casa di Reclusione Opera,2015,detenuti stranieri Altri paesi europei,8
+314,Casa di Reclusione Opera,2015,detenuti stranieri Tunisia,20
+315,Casa di Reclusione Opera,2015,detenuti stranieri Marocco,80
+316,Casa di Reclusione Opera,2015,detenuti stranieri Algeria,2
+317,Casa di Reclusione Opera,2015,detenuti stranieri Nigeria,2
+318,Casa di Reclusione Opera,2015,detenuti stranieri Altri paesi africani,19
+319,Casa di Reclusione Opera,2015,detenuti stranieri Medio oriente,0
+320,Casa di Reclusione Opera,2015,detenuti stranieri Altri paesi asiatici,24
+321,Casa di Reclusione Opera,2015,detenuti stranieri Nord America,1
+322,Casa di Reclusione Opera,2015,detenuti stranieri Centro America,12
+323,Casa di Reclusione Opera,2015,detenuti stranieri Sud America,36
+324,Casa di Reclusione Opera,2015,detenuti stranieri Altra provenienza,0
+325,Casa Circondariale S.Vittore,2014,Capienza regolamentare,753
+326,Casa Circondariale S.Vittore,2014,Detenuti presenti al 31.12,971
+327,Casa Circondariale S.Vittore,2014,detenuti stranieri totale,605
+328,Casa Circondariale S.Vittore,2014,detenuti stranieri Ue,117
+329,Casa Circondariale S.Vittore,2014,detenuti stranieri Ex Jugoslavia,18
+330,Casa Circondariale S.Vittore,2014,detenuti stranieri Albania,66
+331,Casa Circondariale S.Vittore,2014,detenuti stranieri Altri paesi europei,13
+332,Casa Circondariale S.Vittore,2014,detenuti stranieri Tunisia,50
+333,Casa Circondariale S.Vittore,2014,detenuti stranieri Marocco,119
+334,Casa Circondariale S.Vittore,2014,detenuti stranieri Algeria,20
+335,Casa Circondariale S.Vittore,2014,detenuti stranieri Nigeria,4
+336,Casa Circondariale S.Vittore,2014,detenuti stranieri Altri paesi africani,62
+337,Casa Circondariale S.Vittore,2014,detenuti stranieri Medio oriente,7
+338,Casa Circondariale S.Vittore,2014,detenuti stranieri Altri paesi asiatici,39
+339,Casa Circondariale S.Vittore,2014,detenuti stranieri Nord America,0
+340,Casa Circondariale S.Vittore,2014,detenuti stranieri Centro America,20
+341,Casa Circondariale S.Vittore,2014,detenuti stranieri Sud America,70
+342,Casa Circondariale S.Vittore,2014,detenuti stranieri Altra provenienza,0
+343,Casa di Reclusione Bollate,2014,Capienza regolamentare,1242
+344,Casa di Reclusione Bollate,2014,Detenuti presenti al 31.12,1148
+345,Casa di Reclusione Bollate,2014,detenuti stranieri totale,397
+346,Casa di Reclusione Bollate,2014,detenuti stranieri Ue,71
+347,Casa di Reclusione Bollate,2014,detenuti stranieri Ex Jugoslavia,25
+348,Casa di Reclusione Bollate,2014,detenuti stranieri Albania,50
+349,Casa di Reclusione Bollate,2014,detenuti stranieri Altri paesi europei,6
+350,Casa di Reclusione Bollate,2014,detenuti stranieri Tunisia,26
+351,Casa di Reclusione Bollate,2014,detenuti stranieri Marocco,69
+352,Casa di Reclusione Bollate,2014,detenuti stranieri Algeria,1
+353,Casa di Reclusione Bollate,2014,detenuti stranieri Nigeria,10
+354,Casa di Reclusione Bollate,2014,detenuti stranieri Altri paesi africani,33
+355,Casa di Reclusione Bollate,2014,detenuti stranieri Medio oriente,4
+356,Casa di Reclusione Bollate,2014,detenuti stranieri Altri paesi asiatici,35
+357,Casa di Reclusione Bollate,2014,detenuti stranieri Nord America,1
+358,Casa di Reclusione Bollate,2014,detenuti stranieri Centro America,11
+359,Casa di Reclusione Bollate,2014,detenuti stranieri Sud America,55
+360,Casa di Reclusione Bollate,2014,detenuti stranieri Altra provenienza,0
+361,Casa di Reclusione Opera,2014,Capienza regolamentare,911
+362,Casa di Reclusione Opera,2014,Detenuti presenti al 31.12,1285
+363,Casa di Reclusione Opera,2014,detenuti stranieri totale,401
+364,Casa di Reclusione Opera,2014,detenuti stranieri Ue,66
+365,Casa di Reclusione Opera,2014,detenuti stranieri Ex Jugoslavia,19
+366,Casa di Reclusione Opera,2014,detenuti stranieri Albania,71
+367,Casa di Reclusione Opera,2014,detenuti stranieri Altri paesi europei,6
+368,Casa di Reclusione Opera,2014,detenuti stranieri Tunisia,24
+369,Casa di Reclusione Opera,2014,detenuti stranieri Marocco,95
+370,Casa di Reclusione Opera,2014,detenuti stranieri Algeria,6
+371,Casa di Reclusione Opera,2014,detenuti stranieri Nigeria,2
+372,Casa di Reclusione Opera,2014,detenuti stranieri Altri paesi africani,21
+373,Casa di Reclusione Opera,2014,detenuti stranieri Medio oriente,3
+374,Casa di Reclusione Opera,2014,detenuti stranieri Altri paesi asiatici,29
+375,Casa di Reclusione Opera,2014,detenuti stranieri Nord America,1
+376,Casa di Reclusione Opera,2014,detenuti stranieri Centro America,13
+377,Casa di Reclusione Opera,2014,detenuti stranieri Sud America,44
+378,Casa di Reclusione Opera,2014,detenuti stranieri Altra provenienza,1
+379,Casa Circondariale S.Vittore,2013,Capienza regolamentare,685
+380,Casa Circondariale S.Vittore,2013,Detenuti presenti al 31.12,1287
+381,Casa Circondariale S.Vittore,2013,detenuti stranieri totale,814
+382,Casa Circondariale S.Vittore,2013,detenuti stranieri Ue,144
+383,Casa Circondariale S.Vittore,2013,detenuti stranieri Ex Jugoslavia,34
+384,Casa Circondariale S.Vittore,2013,detenuti stranieri Albania,68
+385,Casa Circondariale S.Vittore,2013,detenuti stranieri Altri paesi europei,27
+386,Casa Circondariale S.Vittore,2013,detenuti stranieri Tunisia,67
+387,Casa Circondariale S.Vittore,2013,detenuti stranieri Marocco,178
+388,Casa Circondariale S.Vittore,2013,detenuti stranieri Algeria,16
+389,Casa Circondariale S.Vittore,2013,detenuti stranieri Nigeria,5
+390,Casa Circondariale S.Vittore,2013,detenuti stranieri Altri paesi africani,94
+391,Casa Circondariale S.Vittore,2013,detenuti stranieri Medio oriente,12
+392,Casa Circondariale S.Vittore,2013,detenuti stranieri Altri paesi asiatici,42
+393,Casa Circondariale S.Vittore,2013,detenuti stranieri Nord America,0
+394,Casa Circondariale S.Vittore,2013,detenuti stranieri Centro America,25
+395,Casa Circondariale S.Vittore,2013,detenuti stranieri Sud America,102
+396,Casa Circondariale S.Vittore,2013,detenuti stranieri Altra provenienza,0
+397,Casa di Reclusione Bollate,2013,Capienza regolamentare,976
+398,Casa di Reclusione Bollate,2013,Detenuti presenti al 31.12,1181
+399,Casa di Reclusione Bollate,2013,detenuti stranieri totale,381
+400,Casa di Reclusione Bollate,2013,detenuti stranieri Ue,69
+401,Casa di Reclusione Bollate,2013,detenuti stranieri Ex Jugoslavia,24
+402,Casa di Reclusione Bollate,2013,detenuti stranieri Albania,46
+403,Casa di Reclusione Bollate,2013,detenuti stranieri Altri paesi europei,5
+404,Casa di Reclusione Bollate,2013,detenuti stranieri Tunisia,22
+405,Casa di Reclusione Bollate,2013,detenuti stranieri Marocco,82
+406,Casa di Reclusione Bollate,2013,detenuti stranieri Algeria,4
+407,Casa di Reclusione Bollate,2013,detenuti stranieri Nigeria,4
+408,Casa di Reclusione Bollate,2013,detenuti stranieri Altri paesi africani,25
+409,Casa di Reclusione Bollate,2013,detenuti stranieri Medio oriente,7
+410,Casa di Reclusione Bollate,2013,detenuti stranieri Altri paesi asiatici,30
+411,Casa di Reclusione Bollate,2013,detenuti stranieri Nord America,1
+412,Casa di Reclusione Bollate,2013,detenuti stranieri Centro America,12
+413,Casa di Reclusione Bollate,2013,detenuti stranieri Sud America,50
+414,Casa di Reclusione Bollate,2013,detenuti stranieri Altra provenienza,0
+415,Casa di Reclusione Opera,2013,Capienza regolamentare,989
+416,Casa di Reclusione Opera,2013,Detenuti presenti al 31.12,1287
+417,Casa di Reclusione Opera,2013,detenuti stranieri totale,480
+418,Casa di Reclusione Opera,2013,detenuti stranieri Ue,78
+419,Casa di Reclusione Opera,2013,detenuti stranieri Ex Jugoslavia,17
+420,Casa di Reclusione Opera,2013,detenuti stranieri Albania,67
+421,Casa di Reclusione Opera,2013,detenuti stranieri Altri paesi europei,8
+422,Casa di Reclusione Opera,2013,detenuti stranieri Tunisia,28
+423,Casa di Reclusione Opera,2013,detenuti stranieri Marocco,121
+424,Casa di Reclusione Opera,2013,detenuti stranieri Algeria,8
+425,Casa di Reclusione Opera,2013,detenuti stranieri Nigeria,3
+426,Casa di Reclusione Opera,2013,detenuti stranieri Altri paesi africani,38
+427,Casa di Reclusione Opera,2013,detenuti stranieri Medio oriente,7
+428,Casa di Reclusione Opera,2013,detenuti stranieri Altri paesi asiatici,37
+429,Casa di Reclusione Opera,2013,detenuti stranieri Nord America,1
+430,Casa di Reclusione Opera,2013,detenuti stranieri Centro America,14
+431,Casa di Reclusione Opera,2013,detenuti stranieri Sud America,52
+432,Casa di Reclusione Opera,2013,detenuti stranieri Altra provenienza,1
+433,Casa Circondariale S.Vittore,2012,Capienza regolamentare,712
+434,Casa Circondariale S.Vittore,2012,Detenuti presenti al 31.12,1616
+435,Casa Circondariale S.Vittore,2012,detenuti stranieri totale,967
+436,Casa Circondariale S.Vittore,2012,detenuti stranieri Ue,179
+437,Casa Circondariale S.Vittore,2012,detenuti stranieri Ex Jugoslavia,41
+438,Casa Circondariale S.Vittore,2012,detenuti stranieri Albania,85
+439,Casa Circondariale S.Vittore,2012,detenuti stranieri Altri paesi europei,22
+440,Casa Circondariale S.Vittore,2012,detenuti stranieri Tunisia,59
+441,Casa Circondariale S.Vittore,2012,detenuti stranieri Marocco,183
+442,Casa Circondariale S.Vittore,2012,detenuti stranieri Algeria,18
+443,Casa Circondariale S.Vittore,2012,detenuti stranieri Nigeria,9
+444,Casa Circondariale S.Vittore,2012,detenuti stranieri Altri paesi africani,126
+445,Casa Circondariale S.Vittore,2012,detenuti stranieri Medio oriente,16
+446,Casa Circondariale S.Vittore,2012,detenuti stranieri Altri paesi asiatici,65
+447,Casa Circondariale S.Vittore,2012,detenuti stranieri Nord America,5
+448,Casa Circondariale S.Vittore,2012,detenuti stranieri Centro America,22
+449,Casa Circondariale S.Vittore,2012,detenuti stranieri Sud America,137
+450,Casa Circondariale S.Vittore,2012,detenuti stranieri Altra provenienza,0
+451,Casa di Reclusione Bollate,2012,Capienza regolamentare,976
+452,Casa di Reclusione Bollate,2012,Detenuti presenti al 31.12,1182
+453,Casa di Reclusione Bollate,2012,detenuti stranieri totale,364
+454,Casa di Reclusione Bollate,2012,detenuti stranieri Ue,73
+455,Casa di Reclusione Bollate,2012,detenuti stranieri Ex Jugoslavia,21
+456,Casa di Reclusione Bollate,2012,detenuti stranieri Albania,49
+457,Casa di Reclusione Bollate,2012,detenuti stranieri Altri paesi europei,10
+458,Casa di Reclusione Bollate,2012,detenuti stranieri Tunisia,23
+459,Casa di Reclusione Bollate,2012,detenuti stranieri Marocco,74
+460,Casa di Reclusione Bollate,2012,detenuti stranieri Algeria,3
+461,Casa di Reclusione Bollate,2012,detenuti stranieri Nigeria,4
+462,Casa di Reclusione Bollate,2012,detenuti stranieri Altri paesi africani,21
+463,Casa di Reclusione Bollate,2012,detenuti stranieri Medio oriente,3
+464,Casa di Reclusione Bollate,2012,detenuti stranieri Altri paesi asiatici,24
+465,Casa di Reclusione Bollate,2012,detenuti stranieri Nord America,0
+466,Casa di Reclusione Bollate,2012,detenuti stranieri Centro America,8
+467,Casa di Reclusione Bollate,2012,detenuti stranieri Sud America,51
+468,Casa di Reclusione Bollate,2012,detenuti stranieri Altra provenienza,0
+469,Casa di Reclusione Opera,2012,Capienza regolamentare,973
+470,Casa di Reclusione Opera,2012,Detenuti presenti al 31.12,1318
+471,Casa di Reclusione Opera,2012,detenuti stranieri totale,337
+472,Casa di Reclusione Opera,2012,detenuti stranieri Ue,65
+473,Casa di Reclusione Opera,2012,detenuti stranieri Ex Jugoslavia,17
+474,Casa di Reclusione Opera,2012,detenuti stranieri Albania,62
+475,Casa di Reclusione Opera,2012,detenuti stranieri Altri paesi europei,7
+476,Casa di Reclusione Opera,2012,detenuti stranieri Tunisia,18
+477,Casa di Reclusione Opera,2012,detenuti stranieri Marocco,58
+478,Casa di Reclusione Opera,2012,detenuti stranieri Algeria,3
+479,Casa di Reclusione Opera,2012,detenuti stranieri Nigeria,2
+480,Casa di Reclusione Opera,2012,detenuti stranieri Altri paesi africani,18
+481,Casa di Reclusione Opera,2012,detenuti stranieri Medio oriente,2
+482,Casa di Reclusione Opera,2012,detenuti stranieri Altri paesi asiatici,36
+483,Casa di Reclusione Opera,2012,detenuti stranieri Nord America,1
+484,Casa di Reclusione Opera,2012,detenuti stranieri Centro America,7
+485,Casa di Reclusione Opera,2012,detenuti stranieri Sud America,39
+486,Casa di Reclusione Opera,2012,detenuti stranieri Altra provenienza,2
+487,Casa Circondariale S.Vittore,2011,Capienza regolamentare,712
+488,Casa Circondariale S.Vittore,2011,Detenuti presenti al 31.12,1601
+489,Casa Circondariale S.Vittore,2011,detenuti stranieri totale,1065
+490,Casa Circondariale S.Vittore,2011,detenuti stranieri Ue,196
+491,Casa Circondariale S.Vittore,2011,detenuti stranieri Ex Jugoslavia,42
+492,Casa Circondariale S.Vittore,2011,detenuti stranieri Albania,79
+493,Casa Circondariale S.Vittore,2011,detenuti stranieri Altri paesi europei,28
+494,Casa Circondariale S.Vittore,2011,detenuti stranieri Tunisia,84
+495,Casa Circondariale S.Vittore,2011,detenuti stranieri Marocco,231
+496,Casa Circondariale S.Vittore,2011,detenuti stranieri Algeria,24
+497,Casa Circondariale S.Vittore,2011,detenuti stranieri Nigeria,15
+498,Casa Circondariale S.Vittore,2011,detenuti stranieri Altri paesi africani,144
+499,Casa Circondariale S.Vittore,2011,detenuti stranieri Medio oriente,8
+500,Casa Circondariale S.Vittore,2011,detenuti stranieri Altri paesi asiatici,73
+501,Casa Circondariale S.Vittore,2011,detenuti stranieri Nord America,3
+502,Casa Circondariale S.Vittore,2011,detenuti stranieri Centro America,27
+503,Casa Circondariale S.Vittore,2011,detenuti stranieri Sud America,111
+504,Casa Circondariale S.Vittore,2011,detenuti stranieri Altra provenienza,0
+505,Casa di Reclusione Bollate,2011,Capienza regolamentare,976
+506,Casa di Reclusione Bollate,2011,Detenuti presenti al 31.12,1163
+507,Casa di Reclusione Bollate,2011,detenuti stranieri totale,339
+508,Casa di Reclusione Bollate,2011,detenuti stranieri Ue,63
+509,Casa di Reclusione Bollate,2011,detenuti stranieri Ex Jugoslavia,22
+510,Casa di Reclusione Bollate,2011,detenuti stranieri Albania,53
+511,Casa di Reclusione Bollate,2011,detenuti stranieri Altri paesi europei,9
+512,Casa di Reclusione Bollate,2011,detenuti stranieri Tunisia,17
+513,Casa di Reclusione Bollate,2011,detenuti stranieri Marocco,85
+514,Casa di Reclusione Bollate,2011,detenuti stranieri Algeria,2
+515,Casa di Reclusione Bollate,2011,detenuti stranieri Nigeria,4
+516,Casa di Reclusione Bollate,2011,detenuti stranieri Altri paesi africani,20
+517,Casa di Reclusione Bollate,2011,detenuti stranieri Medio oriente,2
+518,Casa di Reclusione Bollate,2011,detenuti stranieri Altri paesi asiatici,20
+519,Casa di Reclusione Bollate,2011,detenuti stranieri Nord America,0
+520,Casa di Reclusione Bollate,2011,detenuti stranieri Centro America,5
+521,Casa di Reclusione Bollate,2011,detenuti stranieri Sud America,37
+522,Casa di Reclusione Bollate,2011,detenuti stranieri Altra provenienza,0
+523,Casa di Reclusione Opera,2011,Capienza regolamentare,973
+524,Casa di Reclusione Opera,2011,Detenuti presenti al 31.12,1278
+525,Casa di Reclusione Opera,2011,detenuti stranieri totale,344
+526,Casa di Reclusione Opera,2011,detenuti stranieri Ue,62
+527,Casa di Reclusione Opera,2011,detenuti stranieri Ex Jugoslavia,22
+528,Casa di Reclusione Opera,2011,detenuti stranieri Albania,58
+529,Casa di Reclusione Opera,2011,detenuti stranieri Altri paesi europei,11
+530,Casa di Reclusione Opera,2011,detenuti stranieri Tunisia,19
+531,Casa di Reclusione Opera,2011,detenuti stranieri Marocco,66
+532,Casa di Reclusione Opera,2011,detenuti stranieri Algeria,0
+533,Casa di Reclusione Opera,2011,detenuti stranieri Nigeria,5
+534,Casa di Reclusione Opera,2011,detenuti stranieri Altri paesi africani,24
+535,Casa di Reclusione Opera,2011,detenuti stranieri Medio oriente,3
+536,Casa di Reclusione Opera,2011,detenuti stranieri Altri paesi asiatici,28
+537,Casa di Reclusione Opera,2011,detenuti stranieri Nord America,3
+538,Casa di Reclusione Opera,2011,detenuti stranieri Centro America,8
+539,Casa di Reclusione Opera,2011,detenuti stranieri Sud America,34
+540,Casa di Reclusione Opera,2011,detenuti stranieri Altra provenienza,1
+541,Casa Circondariale S.Vittore,2010,Capienza regolamentare,712
+542,Casa Circondariale S.Vittore,2010,Detenuti presenti al 31.12,1608
+543,Casa Circondariale S.Vittore,2010,detenuti stranieri totale,1029
+544,Casa Circondariale S.Vittore,2010,detenuti stranieri Ue,173
+545,Casa Circondariale S.Vittore,2010,detenuti stranieri Ex Jugoslavia,41
+546,Casa Circondariale S.Vittore,2010,detenuti stranieri Albania,75
+547,Casa Circondariale S.Vittore,2010,detenuti stranieri Altri paesi europei,23
+548,Casa Circondariale S.Vittore,2010,detenuti stranieri Tunisia,61
+549,Casa Circondariale S.Vittore,2010,detenuti stranieri Marocco,213
+550,Casa Circondariale S.Vittore,2010,detenuti stranieri Algeria,34
+551,Casa Circondariale S.Vittore,2010,detenuti stranieri Nigeria,18
+552,Casa Circondariale S.Vittore,2010,detenuti stranieri Altri paesi africani,167
+553,Casa Circondariale S.Vittore,2010,detenuti stranieri Medio oriente,10
+554,Casa Circondariale S.Vittore,2010,detenuti stranieri Altri paesi asiatici,69
+555,Casa Circondariale S.Vittore,2010,detenuti stranieri Nord America,3
+556,Casa Circondariale S.Vittore,2010,detenuti stranieri Centro America,25
+557,Casa Circondariale S.Vittore,2010,detenuti stranieri Sud America,116
+558,Casa Circondariale S.Vittore,2010,detenuti stranieri Altra provenienza,1
+559,Casa di Reclusione Bollate,2010,Capienza regolamentare,976
+560,Casa di Reclusione Bollate,2010,Detenuti presenti al 31.12,1090
+561,Casa di Reclusione Bollate,2010,detenuti stranieri totale,308
+562,Casa di Reclusione Bollate,2010,detenuti stranieri Ue,67
+563,Casa di Reclusione Bollate,2010,detenuti stranieri Ex Jugoslavia,17
+564,Casa di Reclusione Bollate,2010,detenuti stranieri Albania,44
+565,Casa di Reclusione Bollate,2010,detenuti stranieri Altri paesi europei,7
+566,Casa di Reclusione Bollate,2010,detenuti stranieri Tunisia,17
+567,Casa di Reclusione Bollate,2010,detenuti stranieri Marocco,75
+568,Casa di Reclusione Bollate,2010,detenuti stranieri Algeria,2
+569,Casa di Reclusione Bollate,2010,detenuti stranieri Nigeria,2
+570,Casa di Reclusione Bollate,2010,detenuti stranieri Altri paesi africani,21
+571,Casa di Reclusione Bollate,2010,detenuti stranieri Medio oriente,1
+572,Casa di Reclusione Bollate,2010,detenuti stranieri Altri paesi asiatici,17
+573,Casa di Reclusione Bollate,2010,detenuti stranieri Nord America,1
+574,Casa di Reclusione Bollate,2010,detenuti stranieri Centro America,5
+575,Casa di Reclusione Bollate,2010,detenuti stranieri Sud America,32
+576,Casa di Reclusione Bollate,2010,detenuti stranieri Altra provenienza,0
+577,Casa di Reclusione Opera,2010,Capienza regolamentare,973
+578,Casa di Reclusione Opera,2010,Detenuti presenti al 31.12,1312
+579,Casa di Reclusione Opera,2010,detenuti stranieri totale,320
+580,Casa di Reclusione Opera,2010,detenuti stranieri Ue,53
+581,Casa di Reclusione Opera,2010,detenuti stranieri Ex Jugoslavia,15
+582,Casa di Reclusione Opera,2010,detenuti stranieri Albania,67
+583,Casa di Reclusione Opera,2010,detenuti stranieri Altri paesi europei,4
+584,Casa di Reclusione Opera,2010,detenuti stranieri Tunisia,20
+585,Casa di Reclusione Opera,2010,detenuti stranieri Marocco,65
+586,Casa di Reclusione Opera,2010,detenuti stranieri Algeria,2
+587,Casa di Reclusione Opera,2010,detenuti stranieri Nigeria,5
+588,Casa di Reclusione Opera,2010,detenuti stranieri Altri paesi africani,16
+589,Casa di Reclusione Opera,2010,detenuti stranieri Medio oriente,2
+590,Casa di Reclusione Opera,2010,detenuti stranieri Altri paesi asiatici,30
+591,Casa di Reclusione Opera,2010,detenuti stranieri Nord America,3
+592,Casa di Reclusione Opera,2010,detenuti stranieri Centro America,8
+593,Casa di Reclusione Opera,2010,detenuti stranieri Sud America,29
+594,Casa di Reclusione Opera,2010,detenuti stranieri Altra provenienza,1

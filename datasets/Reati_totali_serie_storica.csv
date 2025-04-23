@@ -1,0 +1,1121 @@
+﻿_id,anno_rilevamento_reato,Reati_denunciati_tipologia,reati_denunciati
+1,2023,Strage,0
+2,2023,Omicidi volontari totale,9
+3,2023,Omicidi a scopo di furto o rapina,0
+4,2023,Omicidi di tipo mafioso,0
+5,2023,Omicidi a scopo terroristico,0
+6,2023,Tentati omicidi,31
+7,2023,Infanticidi,0
+8,2023,Omicidi preterintenzionali,0
+9,2023,Omicidi colposi totale,47
+10,2023,Omicidi colposi da incidente stradale,24
+11,2023,Percosse,748
+12,2023,Lesioni dolose,2093
+13,2023,Minacce,1709
+14,2023,Sequestri di persona,17
+15,2023,Ingiurie,""
+16,2023,Violenze sessuali,419
+17,2023,Atti sessuali con minorenne,13
+18,2023,Corruzione di minorenne,4
+19,2023,Sfruttamento e favoreggiamento della prostituzione,4
+20,2023,Pornografia minorile e detenzione di materiale pedopornografico,39
+21,2023,Furti,85167
+22,2023,furti con strappo,1805
+23,2023,Furti  con destrezza,24734
+24,2023,Furti  in abitazioni,3658
+25,2023,Furti  in esercizi commerciali,5238
+26,2023,Furti  in auto in sosta,7523
+27,2023,Furti  di opere d'arte e materiale archeologico,13
+28,2023,Furti di automezzi pesanti trasportanti merci,5
+29,2023,Furti di ciclomotori,575
+30,2023,Furti di motocicli,2957
+31,2023,Furti di autovetture,3514
+32,2023,Rapine totale,3366
+33,2023,Rapine in abitazione,49
+34,2023,Rapine in banca,2
+35,2023,Rapine in uffici postali,0
+36,2023,Rapine in esercizi commerciali,295
+37,2023,Rapine in pubblica via,2270
+38,2023,Estorsioni,453
+39,2023,Truffe e frodi informatiche,11634
+40,2023,Delitti informatici,1581
+41,2023,Contraffazione di marchi e prodotti industriali,66
+42,2023,Violazione della propriet? intellettuale,16
+43,2023,Ricettazione,963
+44,2023,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",28
+45,2023,Usura,3
+46,2023,Danneggiamenti,16767
+47,2023,Incendi totale,68
+48,2023,Incendi boschivi,1
+49,2023,Danneggiamento seguito da incendio,134
+50,2023,Normativa sugli stupefacenti,2087
+51,2023,Attentati,5
+52,2023,Associazione per delinquere,8
+53,2023,Associazione di tipo mafioso,0
+54,2023,Contrabbando,1
+55,2023,Altri delitti,17384
+56,2023,Reati totale,144864
+57,2022,Strage,0
+58,2022,Omicidi volontari totale,9
+59,2022,Omicidi a scopo di furto o rapina,0
+60,2022,Omicidi di tipo mafioso,0
+61,2022,Omicidi a scopo terroristico,0
+62,2022,Tentati omicidi,34
+63,2022,Infanticidi,0
+64,2022,Omicidi preterintenzionali,1
+65,2022,Omicidi colposi totale,40
+66,2022,Omicidi colposi da incidente stradale,25
+67,2022,Percosse,736
+68,2022,Lesioni dolose,2083
+69,2022,Minacce,1674
+70,2022,Sequestri di persona,30
+71,2022,Ingiurie,""
+72,2022,Violenze sessuali,423
+73,2022,Atti sessuali con minorenne,9
+74,2022,Corruzione di minorenne,4
+75,2022,Sfruttamento e favoreggiamento della prostituzione,8
+76,2022,Pornografia minorile e detenzione di materiale pedopornografico,66
+77,2022,Furti,87736
+78,2022,furti con strappo,1888
+79,2022,Furti  con destrezza,29034
+80,2022,Furti  in abitazioni,3311
+81,2022,Furti  in esercizi commerciali,5689
+82,2022,Furti  in auto in sosta,7817
+83,2022,Furti  di opere d'arte e materiale archeologico,11
+84,2022,Furti di automezzi pesanti trasportanti merci,5
+85,2022,Furti di ciclomotori,550
+86,2022,Furti di motocicli,2401
+87,2022,Furti di autovetture,3422
+88,2022,Rapine totale,3367
+89,2022,Rapine in abitazione,68
+90,2022,Rapine in banca,10
+91,2022,Rapine in uffici postali,0
+92,2022,Rapine in esercizi commerciali,282
+93,2022,Rapine in pubblica via,2358
+94,2022,Estorsioni,419
+95,2022,Truffe e frodi informatiche,10821
+96,2022,Delitti informatici,1215
+97,2022,Contraffazione di marchi e prodotti industriali,123
+98,2022,Violazione della propriet? intellettuale,35
+99,2022,Ricettazione,1049
+100,2022,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",24
+101,2022,Usura,2
+102,2022,Danneggiamenti,15896
+103,2022,Incendi totale,72
+104,2022,Incendi boschivi,1
+105,2022,Danneggiamento seguito da incendio,141
+106,2022,Normativa sugli stupefacenti,1630
+107,2022,Attentati,2
+108,2022,Associazione per delinquere,13
+109,2022,Associazione di tipo mafioso,0
+110,2022,Contrabbando,0
+111,2022,Altri delitti,17110
+112,2022,Reati totale,144772
+113,2021,Strage,0
+114,2021,Omicidi volontari totale,7
+115,2021,Omicidi a scopo di furto o rapina,1
+116,2021,Omicidi di tipo mafioso,0
+117,2021,Omicidi a scopo terroristico,0
+118,2021,Tentati omicidi,35
+119,2021,Infanticidi,0
+120,2021,Omicidi preterintenzionali,1
+121,2021,Omicidi colposi totale,31
+122,2021,Omicidi colposi da incidente stradale,19
+123,2021,Percosse,656
+124,2021,Lesioni dolose,1854
+125,2021,Minacce,1744
+126,2021,Sequestri di persona,32
+127,2021,Ingiurie,""
+128,2021,Violenze sessuali,291
+129,2021,Atti sessuali con minorenne,14
+130,2021,Corruzione di minorenne,4
+131,2021,Sfruttamento e favoreggiamento della prostituzione,8
+132,2021,Pornografia minorile e detenzione di materiale pedopornografico,74
+133,2021,Furti,63485
+134,2021,furti con strappo,1498
+135,2021,Furti  con destrezza,18332
+136,2021,Furti  in abitazioni,3741
+137,2021,Furti  in esercizi commerciali,4348
+138,2021,Furti  in auto in sosta,6276
+139,2021,Furti  di opere d'arte e materiale archeologico,13
+140,2021,Furti di automezzi pesanti trasportanti merci,6
+141,2021,Furti di ciclomotori,430
+142,2021,Furti di motocicli,1890
+143,2021,Furti di autovetture,3404
+144,2021,Rapine totale,2602
+145,2021,Rapine in abitazione,70
+146,2021,Rapine in banca,5
+147,2021,Rapine in uffici postali,2
+148,2021,Rapine in esercizi commerciali,248
+149,2021,Rapine in pubblica via,1803
+150,2021,Estorsioni,429
+151,2021,Truffe e frodi informatiche,12021
+152,2021,Delitti informatici,687
+153,2021,Contraffazione di marchi e prodotti industriali,118
+154,2021,Violazione della propriet? intellettuale,16
+155,2021,Ricettazione,757
+156,2021,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",23
+157,2021,Usura,6
+158,2021,Danneggiamenti,14876
+159,2021,Incendi totale,78
+160,2021,Incendi boschivi,0
+161,2021,Danneggiamento seguito da incendio,135
+162,2021,Normativa sugli stupefacenti,1442
+163,2021,Attentati,7
+164,2021,Associazione per delinquere,86
+165,2021,Associazione di tipo mafioso,6
+166,2021,Contrabbando,0
+167,2021,Altri delitti,16627
+168,2021,Reati totale,118152
+169,2020,Strage,1
+170,2020,Omicidi volontari totale,7
+171,2020,Omicidi a scopo di furto o rapina,1
+172,2020,Omicidi di tipo mafioso,0
+173,2020,Omicidi a scopo terroristico,0
+174,2020,Tentati omicidi,22
+175,2020,Infanticidi,0
+176,2020,Omicidi preterintenzionali,1
+177,2020,Omicidi colposi totale,50
+178,2020,Omicidi colposi da incidente stradale,18
+179,2020,Percosse,529
+180,2020,Lesioni dolose,1676
+181,2020,Minacce,1622
+182,2020,Sequestri di persona,26
+183,2020,Ingiurie,""
+184,2020,Violenze sessuali,276
+185,2020,Atti sessuali con minorenne,9
+186,2020,Corruzione di minorenne,6
+187,2020,Sfruttamento e favoreggiamento della prostituzione,9
+188,2020,Pornografia minorile e detenzione di materiale pedopornografico,65
+189,2020,Furti,45642
+190,2020,furti con strappo,959
+191,2020,Furti  con destrezza,11426
+192,2020,Furti  in abitazioni,2740
+193,2020,Furti  in esercizi commerciali,3393
+194,2020,Furti  in auto in sosta,5704
+195,2020,Furti  di opere d'arte e materiale archeologico,7
+196,2020,Furti di automezzi pesanti trasportanti merci,10
+197,2020,Furti di ciclomotori,350
+198,2020,Furti di motocicli,1585
+199,2020,Furti di autovetture,2844
+200,2020,Rapine totale,1920
+201,2020,Rapine in abitazione,49
+202,2020,Rapine in banca,10
+203,2020,Rapine in uffici postali,1
+204,2020,Rapine in esercizi commerciali,216
+205,2020,Rapine in pubblica via,1279
+206,2020,Estorsioni,297
+207,2020,Truffe e frodi informatiche,10487
+208,2020,Delitti informatici,646
+209,2020,Contraffazione di marchi e prodotti industriali,84
+210,2020,Violazione della propriet? intellettuale,13
+211,2020,Ricettazione,661
+212,2020,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",30
+213,2020,Usura,2
+214,2020,Danneggiamenti,12438
+215,2020,Incendi totale,75
+216,2020,Incendi boschivi,0
+217,2020,Danneggiamento seguito da incendio,114
+218,2020,Normativa sugli stupefacenti,1874
+219,2020,Attentati,2
+220,2020,Associazione per delinquere,9
+221,2020,Associazione di tipo mafioso,5
+222,2020,Contrabbando,0
+223,2020,Altri delitti,16198
+224,2020,Reati totale,94796
+225,2019,Strage,0
+226,2009,Omicidi volontari totale,8
+227,2019,Omicidi a scopo di furto o rapina,1
+228,2019,Omicidi di tipo mafioso,0
+229,2019,Omicidi a scopo terroristico,0
+230,2019,Tentati omicidi,32
+231,2019,Infanticidi,0
+232,2019,Omicidi preterintenzionali,1
+233,2019,Omicidi colposi totale,31
+234,2019,Omicidi colposi da incidente stradale,16
+235,2019,Percosse,573
+236,2019,Lesioni dolose,2156
+237,2019,Minacce,1804
+238,2019,Sequestri di persona,33
+239,2019,Ingiurie,""
+240,2019,Violenze sessuali,267
+241,2019,Atti sessuali con minorenne,20
+242,2019,Corruzione di minorenne,9
+243,2019,Sfruttamento e favoreggiamento della prostituzione,13
+244,2019,Pornografia minorile e detenzione di materiale pedopornografico,26
+245,2019,Furti,81076
+246,2019,furti con strappo,1232
+247,2019,Furti  con destrezza,22685
+248,2019,Furti  in abitazioni,4947
+249,2019,Furti  in esercizi commerciali,5324
+250,2019,Furti  in auto in sosta,9827
+251,2019,Furti  di opere d'arte e materiale archeologico,7
+252,2019,Furti di automezzi pesanti trasportanti merci,19
+253,2019,Furti di ciclomotori,481
+254,2019,Furti di motocicli,2073
+255,2019,Furti di autovetture,4459
+256,2019,Rapine totale,2259
+257,2019,Rapine in abitazione,54
+258,2019,Rapine in banca,10
+259,2019,Rapine in uffici postali,3
+260,2019,Rapine in esercizi commerciali,251
+261,2019,Rapine in pubblica via,1576
+262,2019,Estorsioni,410
+263,2019,Truffe e frodi informatiche,11233
+264,2019,Delitti informatici,655
+265,2019,Contraffazione di marchi e prodotti industriali,145
+266,2019,Violazione della propriet? intellettuale,14
+267,2019,Ricettazione,760
+268,2019,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",31
+269,2019,Usura,2
+270,2019,Danneggiamenti,15921
+271,2019,Incendi totale,96
+272,2019,Incendi boschivi,0
+273,2019,Danneggiamento seguito da incendio,145
+274,2019,Normativa sugli stupefacenti,2154
+275,2019,Attentati,4
+276,2019,Associazione per delinquere,9
+277,2019,Associazione di tipo mafioso,3
+278,2019,Contrabbando,1
+279,2019,Altri delitti,17818
+280,2019,Reati totale,137709
+281,2018,Strage,1
+282,2018,Omicidi volontari totale,6
+283,2018,Omicidi a scopo di furto o rapina,1
+284,2018,Omicidi di tipo mafioso,0
+285,2018,Omicidi a scopo terroristico,0
+286,2018,Tentati omicidi,41
+287,2018,Infanticidi,2
+288,2018,Omicidi preterintenzionali,1
+289,2018,Omicidi colposi totale,45
+290,2018,Omicidi colposi da incidente stradale,26
+291,2018,Percosse,519
+292,2018,Lesioni dolose,2132
+293,2018,Minacce,1882
+294,2018,Sequestri di persona,28
+295,2018,Ingiurie,""
+296,2018,Violenze sessuali,316
+297,2018,Atti sessuali con minorenne,15
+298,2018,Corruzione di minorenne,4
+299,2018,Sfruttamento e favoreggiamento della prostituzione,16
+300,2018,Pornografia minorile e detenzione di materiale pedopornografico,25
+301,2018,Furti,89773
+302,2018,furti con strappo,1634
+303,2018,Furti  con destrezza,24717
+304,2018,Furti  in abitazioni,6267
+305,2018,Furti  in esercizi commerciali,6326
+306,2018,Furti  in auto in sosta,11287
+307,2018,Furti  di opere d'arte e materiale archeologico,10
+308,2018,Furti di automezzi pesanti trasportanti merci,9
+309,2018,Furti di ciclomotori,618
+310,2018,Furti di motocicli,2592
+311,2018,Furti di autovetture,5372
+312,2018,Rapine totale,2485
+313,2018,Rapine in abitazione,73
+314,2018,Rapine in banca,6
+315,2018,Rapine in uffici postali,0
+316,2018,Rapine in esercizi commerciali,259
+317,2018,Rapine in pubblica via,1731
+318,2018,Estorsioni,579
+319,2018,Truffe e frodi informatiche,9626
+320,2018,Delitti informatici,556
+321,2018,Contraffazione di marchi e prodotti industriali,191
+322,2018,Violazione della propriet? intellettuale,14
+323,2018,Ricettazione,966
+324,2018,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",34
+325,2018,Usura,6
+326,2018,Danneggiamenti,15419
+327,2018,Incendi totale,87
+328,2018,Incendi boschivi,0
+329,2018,Danneggiamento seguito da incendio,137
+330,2018,Normativa sugli stupefacenti,2046
+331,2018,Attentati,4
+332,2018,Associazione per delinquere,15
+333,2018,Associazione di tipo mafioso,1
+334,2018,Contrabbando,""
+335,2018,Altri delitti,16481
+336,2018,Reati totale,143453
+337,2017,Strage,0
+338,2017,Omicidi volontari totale,11
+339,2017,Omicidi a scopo di furto o rapina,2
+340,2017,Omicidi di tipo mafioso,0
+341,2017,Omicidi a scopo terroristico,0
+342,2017,Tentati omicidi,45
+343,2017,Infanticidi,0
+344,2017,Omicidi preterintenzionali,1
+345,2017,Omicidi colposi totale,47
+346,2017,Omicidi colposi da incidente stradale,29
+347,2017,Percosse,642
+348,2017,Lesioni dolose,2223
+349,2017,Minacce,2137
+350,2017,Sequestri di persona,44
+351,2017,Ingiurie,58
+352,2017,Violenze sessuali,305
+353,2017,Atti sessuali con minorenne,20
+354,2017,Corruzione di minorenne,5
+355,2017,Sfruttamento e favoreggiamento della prostituzione,21
+356,2017,Pornografia minorile e detenzione di materiale pedopornografico,29
+357,2017,Furti,93654
+358,2017,furti con strappo,1559
+359,2017,Furti  con destrezza,21775
+360,2017,Furti  in abitazioni,7080
+361,2017,Furti  in esercizi commerciali,6938
+362,2017,Furti  in auto in sosta,12851
+363,2017,Furti  di opere d'arte e materiale archeologico,17
+364,2017,Furti di automezzi pesanti trasportanti merci,7
+365,2017,Furti di ciclomotori,875
+366,2017,Furti di motocicli,3019
+367,2017,Furti di autovetture,5679
+368,2017,Rapine totale,2960
+369,2017,Rapine in abitazione,103
+370,2017,Rapine in banca,20
+371,2017,Rapine in uffici postali,5
+372,2017,Rapine in esercizi commerciali,318
+373,2017,Rapine in pubblica via,2045
+374,2017,Estorsioni,327
+375,2017,Truffe e frodi informatiche,8225
+376,2017,Delitti informatici,502
+377,2017,Contraffazione di marchi e prodotti industriali,142
+378,2017,Violazione della propriet? intellettuale,18
+379,2017,Ricettazione,916
+380,2017,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",37
+381,2017,Usura,7
+382,2017,Danneggiamenti,15329
+383,2017,Incendi totale,93
+384,2017,Incendi boschivi,0
+385,2017,Danneggiamento seguito da incendio,128
+386,2017,Normativa sugli stupefacenti,1875
+387,2017,Attentati,7
+388,2017,Associazione per delinquere,11
+389,2017,Associazione di tipo mafioso,0
+390,2017,Contrabbando,""
+391,2017,Altri delitti,18409
+392,2017,Reati totale,148228
+393,2016,Strage,1
+394,2016,Omicidi volontari totale,10
+395,2016,Omicidi a scopo di furto o rapina,1
+396,2016,Omicidi di tipo mafioso,0
+397,2016,Omicidi a scopo terroristico,0
+398,2016,Tentati omicidi,36
+399,2016,Infanticidi,0
+400,2016,Omicidi preterintenzionali,0
+401,2016,Omicidi colposi totale,34
+402,2016,Omicidi colposi da incidente stradale,24
+403,2016,Percosse,655
+404,2016,Lesioni dolose,2284
+405,2016,Minacce,2180
+406,2016,Sequestri di persona,29
+407,2016,Ingiurie,442
+408,2016,Violenze sessuali,306
+409,2016,Atti sessuali con minorenne,18
+410,2016,Corruzione di minorenne,6
+411,2016,Sfruttamento e favoreggiamento della prostituzione,25
+412,2016,Pornografia minorile e detenzione di materiale pedopornografico,18
+413,2016,Furti,95651
+414,2016,furti con strappo,1503
+415,2016,Furti  con destrezza,21512
+416,2016,Furti  in abitazioni,8156
+417,2016,Furti  in esercizi commerciali,7092
+418,2016,Furti  in auto in sosta,14118
+419,2016,Furti  di opere d'arte e materiale archeologico,23
+420,2016,Furti di automezzi pesanti trasportanti merci,15
+421,2016,Furti di ciclomotori,814
+422,2016,Furti di motocicli,2922
+423,2016,Furti di autovetture,6274
+424,2016,Rapine totale,2829
+425,2016,Rapine in abitazione,135
+426,2016,Rapine in banca,41
+427,2016,Rapine in uffici postali,15
+428,2016,Rapine in esercizi commerciali,334
+429,2016,Rapine in pubblica via,1778
+430,2016,Estorsioni,292
+431,2016,Truffe e frodi informatiche,5697
+432,2016,Delitti informatici,466
+433,2016,Contraffazione di marchi e prodotti industriali,114
+434,2016,Violazione della propriet? intellettuale,9
+435,2016,Ricettazione,887
+436,2016,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",24
+437,2016,Usura,4
+438,2016,Danneggiamenti,15171
+439,2016,Incendi totale,110
+440,2016,Incendi boschivi,0
+441,2016,Danneggiamento seguito da incendio,133
+442,2016,Normativa sugli stupefacenti,1583
+443,2016,Attentati,3
+444,2016,Associazione per delinquere,9
+445,2016,Associazione di tipo mafioso,0
+446,2016,Contrabbando,0
+447,2016,Altri delitti,20269
+448,2016,Reati totale,149295
+449,2015,Strage,1
+450,2015,Omicidi volontari totale,13
+451,2015,Omicidi a scopo di furto o rapina,0
+452,2015,Omicidi di tipo mafioso,0
+453,2015,Omicidi a scopo terroristico,0
+454,2015,Tentati omicidi,41
+455,2015,Infanticidi,0
+456,2015,Omicidi preterintenzionali,1
+457,2015,Omicidi colposi totale,31
+458,2015,Omicidi colposi da incidente stradale,20
+459,2015,Percosse,657
+460,2015,Lesioni dolose,2448
+461,2015,Minacce,2290
+462,2015,Sequestri di persona,42
+463,2015,Ingiurie,1286
+464,2015,Violenze sessuali,284
+465,2015,Atti sessuali con minorenne,20
+466,2015,Corruzione di minorenne,7
+467,2015,Sfruttamento e favoreggiamento della prostituzione,37
+468,2015,Pornografia minorile e detenzione di materiale pedopornografico,26
+469,2015,Furti,95905
+470,2015,furti con strappo,1566
+471,2015,Furti  con destrezza,20935
+472,2015,Furti  in abitazioni,8524
+473,2015,Furti  in esercizi commerciali,7357
+474,2015,Furti  in auto in sosta,14391
+475,2015,Furti  di opere d'arte e materiale archeologico,19
+476,2015,Furti di automezzi pesanti trasportanti merci,22
+477,2015,Furti di ciclomotori,1002
+478,2015,Furti di motocicli,3327
+479,2015,Furti di autovetture,6587
+480,2015,Rapine totale,2908
+481,2015,Rapine in abitazione,145
+482,2015,Rapine in banca,32
+483,2015,Rapine in uffici postali,6
+484,2015,Rapine in esercizi commerciali,390
+485,2015,Rapine in pubblica via,1860
+486,2015,Estorsioni,319
+487,2015,Truffe e frodi informatiche,5293
+488,2015,Delitti informatici,444
+489,2015,Contraffazione di marchi e prodotti industriali,163
+490,2015,Violazione della propriet? intellettuale,12
+491,2015,Ricettazione,1025
+492,2015,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",44
+493,2015,Usura,3
+494,2015,Danneggiamenti,17733
+495,2015,Incendi totale,105
+496,2015,Incendi boschivi,1
+497,2015,Danneggiamento seguito da incendio,96
+498,2015,Normativa sugli stupefacenti,1511
+499,2015,Attentati,9
+500,2015,Associazione per delinquere,18
+501,2015,Associazione di tipo mafioso,0
+502,2015,Contrabbando,3
+503,2015,Altri delitti,19231
+504,2015,Reati totale,152006
+505,2014,Strage,0
+506,2014,Omicidi volontari totale,17
+507,2014,Omicidi a scopo di furto o rapina,2
+508,2014,Omicidi di tipo mafioso,0
+509,2014,Omicidi a scopo terroristico,0
+510,2014,Tentati omicidi,42
+511,2014,Infanticidi,0
+512,2014,Omicidi preterintenzionali,1
+513,2014,Omicidi colposi totale,44
+514,2014,Omicidi colposi da incidente stradale,33
+515,2014,Percosse,600
+516,2014,Lesioni dolose,2259
+517,2014,Minacce,2272
+518,2014,Sequestri di persona,49
+519,2014,Ingiurie,1294
+520,2014,Violenze sessuali,244
+521,2014,Atti sessuali con minorenne,19
+522,2014,Corruzione di minorenne,5
+523,2014,Sfruttamento e favoreggiamento della prostituzione,30
+524,2014,Pornografia minorile e detenzione di materiale pedopornografico,24
+525,2014,Furti,104287
+526,2014,furti con strappo,1872
+527,2014,Furti  con destrezza,23579
+528,2014,Furti  in abitazioni,9426
+529,2014,Furti  in esercizi commerciali,7774
+530,2014,Furti  in auto in sosta,15786
+531,2014,Furti  di opere d'arte e materiale archeologico,18
+532,2014,Furti di automezzi pesanti trasportanti merci,21
+533,2014,Furti di ciclomotori,1120
+534,2014,Furti di motocicli,3698
+535,2014,Furti di autovetture,6803
+536,2014,Rapine totale,3340
+537,2014,Rapine in abitazione,171
+538,2014,Rapine in banca,33
+539,2014,Rapine in uffici postali,17
+540,2014,Rapine in esercizi commerciali,439
+541,2014,Rapine in pubblica via,2072
+542,2014,Estorsioni,334
+543,2014,Truffe e frodi informatiche,5151
+544,2014,Delitti informatici,694
+545,2014,Contraffazione di marchi e prodotti industriali,301
+546,2014,Violazione della propriet? intellettuale,14
+547,2014,Ricettazione,1130
+548,2014,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",25
+549,2014,Usura,10
+550,2014,Danneggiamenti,18004
+551,2014,Incendi totale,123
+552,2014,Incendi boschivi,0
+553,2014,Danneggiamento seguito da incendio,95
+554,2014,Normativa sugli stupefacenti,1345
+555,2014,Attentati,6
+556,2014,Associazione per delinquere,21
+557,2014,Associazione di tipo mafioso,0
+558,2014,Contrabbando,11
+559,2014,Altri delitti,20386
+560,2014,Reati totale,162177
+561,2013,Strage,0
+562,2013,Omicidi volontari totale,13
+563,2013,Omicidi a scopo di furto o rapina,2
+564,2013,Omicidi di tipo mafioso,0
+565,2013,Omicidi a scopo terroristico,0
+566,2013,Tentati omicidi,38
+567,2013,Infanticidi,0
+568,2013,Omicidi preterintenzionali,3
+569,2013,Omicidi colposi totale,42
+570,2013,Omicidi colposi da incidente stradale,26
+571,2013,Percosse,570
+572,2013,Lesioni dolose,2452
+573,2013,Minacce,2217
+574,2013,Sequestri di persona,51
+575,2013,Ingiurie,1311
+576,2013,Violenze sessuali,304
+577,2013,Atti sessuali con minorenne,18
+578,2013,Corruzione di minorenne,5
+579,2013,Sfruttamento e favoreggiamento della prostituzione,38
+580,2013,Pornografia minorile e detenzione di materiale pedopornografico,17
+581,2013,Furti,99195
+582,2013,furti con strappo,1547
+583,2013,Furti  con destrezza,22370
+584,2013,Furti  in abitazioni,9221
+585,2013,Furti  in esercizi commerciali,6753
+586,2013,Furti  in auto in sosta,14456
+587,2013,Furti  di opere d'arte e materiale archeologico,17
+588,2013,Furti di automezzi pesanti trasportanti merci,25
+589,2013,Furti di ciclomotori,1198
+590,2013,Furti di motocicli,3445
+591,2013,Furti di autovetture,7060
+592,2013,Rapine totale,3536
+593,2013,Rapine in abitazione,236
+594,2013,Rapine in banca,73
+595,2013,Rapine in uffici postali,16
+596,2013,Rapine in esercizi commerciali,440
+597,2013,Rapine in pubblica via,2107
+598,2013,Estorsioni,247
+599,2013,Truffe e frodi informatiche,5089
+600,2013,Delitti informatici,508
+601,2013,Contraffazione di marchi e prodotti industriali,278
+602,2013,Violazione della propriet? intellettuale,32
+603,2013,Ricettazione,1319
+604,2013,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",35
+605,2013,Usura,13
+606,2013,Danneggiamenti,19607
+607,2013,Incendi totale,114
+608,2013,Incendi boschivi,0
+609,2013,Danneggiamento seguito da incendio,92
+610,2013,Normativa sugli stupefacenti,1485
+611,2013,Attentati,17
+612,2013,Associazione per delinquere,26
+613,2013,Associazione di tipo mafioso,0
+614,2013,Contrabbando,2
+615,2013,Altri delitti,22195
+616,2013,Reati totale,160869
+617,2012,Strage,0
+618,2012,Omicidi volontari totale,16
+619,2012,Omicidi a scopo di furto o rapina,0
+620,2012,Omicidi di tipo mafioso,0
+621,2012,Omicidi a scopo terroristico,0
+622,2012,Tentati omicidi,45
+623,2012,Infanticidi,1
+624,2012,Omicidi preterintenzionali,2
+625,2012,Omicidi colposi totale,45
+626,2012,Omicidi colposi da incidente stradale,41
+627,2012,Percosse,570
+628,2012,Lesioni dolose,2617
+629,2012,Minacce,2207
+630,2012,Sequestri di persona,64
+631,2012,Ingiurie,1383
+632,2012,Violenze sessuali,323
+633,2012,Atti sessuali con minorenne,19
+634,2012,Corruzione di minorenne,1
+635,2012,Sfruttamento e favoreggiamento della prostituzione,51
+636,2012,Pornografia minorile e detenzione di materiale pedopornografico,14
+637,2012,Furti,101336
+638,2012,furti con strappo,1524
+639,2012,Furti  con destrezza,21541
+640,2012,Furti  in abitazioni,8092
+641,2012,Furti  in esercizi commerciali,6919
+642,2012,Furti  in auto in sosta,15437
+643,2012,Furti  di opere d'arte e materiale archeologico,23
+644,2012,Furti di automezzi pesanti trasportanti merci,48
+645,2012,Furti di ciclomotori,1578
+646,2012,Furti di motocicli,4223
+647,2012,Furti di autovetture,7489
+648,2012,Rapine totale,3390
+649,2012,Rapine in abitazione,173
+650,2012,Rapine in banca,42
+651,2012,Rapine in uffici postali,10
+652,2012,Rapine in esercizi commerciali,462
+653,2012,Rapine in pubblica via,2060
+654,2012,Estorsioni,212
+655,2012,Truffe e frodi informatiche,4712
+656,2012,Delitti informatici,320
+657,2012,Contraffazione di marchi e prodotti industriali,340
+658,2012,Violazione della propriet? intellettuale,22
+659,2012,Ricettazione,1379
+660,2012,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",43
+661,2012,Usura,13
+662,2012,Danneggiamenti,20422
+663,2012,Incendi totale,129
+664,2012,Incendi boschivi,0
+665,2012,Danneggiamento seguito da incendio,128
+666,2012,Normativa sugli stupefacenti,1560
+667,2012,Attentati,51
+668,2012,Associazione per delinquere,19
+669,2012,Associazione di tipo mafioso,0
+670,2012,Contrabbando,8
+671,2012,Altri delitti,19442
+672,2012,Reati totale,160884
+673,2011,Strage,1
+674,2011,Omicidi volontari totale,14
+675,2011,Omicidi a scopo di furto o rapina,2
+676,2011,Omicidi di tipo mafioso,0
+677,2011,Omicidi a scopo terroristico,0
+678,2011,Tentati omicidi,54
+679,2011,Infanticidi,0
+680,2011,Omicidi preterintenzionali,2
+681,2011,Omicidi colposi totale,38
+682,2011,Omicidi colposi da incidente stradale,30
+683,2011,Percosse,587
+684,2011,Lesioni dolose,2621
+685,2011,Minacce,2295
+686,2011,Sequestri di persona,46
+687,2011,Ingiurie,1475
+688,2011,Violenze sessuali,273
+689,2011,Atti sessuali con minorenne,22
+690,2011,Corruzione di minorenne,6
+691,2011,Sfruttamento e favoreggiamento della prostituzione,71
+692,2011,Pornografia minorile e detenzione di materiale pedopornografico,17
+693,2011,Furti,102006
+694,2011,furti con strappo,1142
+695,2011,Furti  con destrezza,20544
+696,2011,Furti  in abitazioni,7270
+697,2011,Furti  in esercizi commerciali,6107
+698,2011,Furti  in auto in sosta,18043
+699,2011,Furti  di opere d'arte e materiale archeologico,16
+700,2011,Furti di automezzi pesanti trasportanti merci,45
+701,2011,Furti di ciclomotori,1694
+702,2011,Furti di motocicli,4485
+703,2011,Furti di autovetture,8421
+704,2011,Rapine totale,3070
+705,2011,Rapine in abitazione,96
+706,2011,Rapine in banca,55
+707,2011,Rapine in uffici postali,14
+708,2011,Rapine in esercizi commerciali,324
+709,2011,Rapine in pubblica via,1864
+710,2011,Estorsioni,220
+711,2011,Truffe e frodi informatiche,3809
+712,2011,Delitti informatici,328
+713,2011,Contraffazione di marchi e prodotti industriali,258
+714,2011,Violazione della propriet? intellettuale,39
+715,2011,Ricettazione,1207
+716,2011,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",47
+717,2011,Usura,8
+718,2011,Danneggiamenti,24204
+719,2011,Incendi totale,163
+720,2011,Incendi boschivi,0
+721,2011,Danneggiamento seguito da incendio,120
+722,2011,Normativa sugli stupefacenti,1546
+723,2011,Attentati,24
+724,2011,Associazione per delinquere,27
+725,2011,Associazione di tipo mafioso,0
+726,2011,Contrabbando,3
+727,2011,Altri delitti,19968
+728,2011,Reati totale,164569
+729,2010,Strage,1
+730,2010,Omicidi volontari totale,16
+731,2010,Omicidi a scopo di furto o rapina,0
+732,2010,Omicidi di tipo mafioso,0
+733,2010,Omicidi a scopo terroristico,0
+734,2010,Tentati omicidi,36
+735,2010,Infanticidi,0
+736,2010,Omicidi preterintenzionali,2
+737,2010,Omicidi colposi totale,39
+738,2010,Omicidi colposi da incidente stradale,29
+739,2010,Percosse,533
+740,2010,Lesioni dolose,2678
+741,2010,Minacce,2245
+742,2010,Sequestri di persona,49
+743,2010,Ingiurie,1398
+744,2010,Violenze sessuali,253
+745,2010,Atti sessuali con minorenne,17
+746,2010,Corruzione di minorenne,4
+747,2010,Sfruttamento e favoreggiamento della prostituzione,49
+748,2010,Pornografia minorile e detenzione di materiale pedopornografico,34
+749,2010,Furti,88612
+750,2010,furti con strappo,1008
+751,2010,Furti  con destrezza,16219
+752,2010,Furti  in abitazioni,6168
+753,2010,Furti  in esercizi commerciali,5950
+754,2010,Furti  in auto in sosta,14739
+755,2010,Furti  di opere d'arte e materiale archeologico,28
+756,2010,Furti di automezzi pesanti trasportanti merci,67
+757,2010,Furti di ciclomotori,1904
+758,2010,Furti di motocicli,3320
+759,2010,Furti di autovetture,8416
+760,2010,Rapine totale,2576
+761,2010,Rapine in abitazione,101
+762,2010,Rapine in banca,100
+763,2010,Rapine in uffici postali,1
+764,2010,Rapine in esercizi commerciali,375
+765,2010,Rapine in pubblica via,1460
+766,2010,Estorsioni,221
+767,2010,Truffe e frodi informatiche,3815
+768,2010,Delitti informatici,245
+769,2010,Contraffazione di marchi e prodotti industriali,243
+770,2010,Violazione della propriet? intellettuale,31
+771,2010,Ricettazione,1171
+772,2010,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",34
+773,2010,Usura,8
+774,2010,Danneggiamenti,24153
+775,2010,Incendi totale,141
+776,2010,Incendi boschivi,0
+777,2010,Danneggiamento seguito da incendio,118
+778,2010,Normativa sugli stupefacenti,1521
+779,2010,Attentati,15
+780,2010,Associazione per delinquere,17
+781,2010,Associazione di tipo mafioso,0
+782,2010,Contrabbando,3
+783,2010,Altri delitti,20580
+784,2010,Reati totale,150858
+785,2009,Strage,3
+786,2009,Omicidi volontari totale,22
+787,2009,Omicidi a scopo di furto o rapina,0
+788,2009,Omicidi di tipo mafioso,1
+789,2009,Omicidi a scopo terroristico,0
+790,2009,Tentati omicidi,53
+791,2009,Infanticidi,0
+792,2009,Omicidi preterintenzionali,0
+793,2009,Omicidi colposi totale,30
+794,2009,Omicidi colposi da incidente stradale,21
+795,2009,Percosse,553
+796,2009,Lesioni dolose,2443
+797,2009,Minacce,2333
+798,2009,Sequestri di persona,68
+799,2009,Ingiurie,1442
+800,2009,Violenze sessuali,315
+801,2009,Atti sessuali con minorenne,23
+802,2009,Corruzione di minorenne,3
+803,2009,Sfruttamento e favoreggiamento della prostituzione,74
+804,2009,Pornografia minorile e detenzione di materiale pedopornografico,34
+805,2009,Furti,87674
+806,2009,furti con strappo,1059
+807,2009,Furti  con destrezza,19210
+808,2009,Furti  in abitazioni,4694
+809,2009,Furti  in esercizi commerciali,5396
+810,2009,Furti  in auto in sosta,14346
+811,2009,Furti  di opere d'arte e materiale archeologico,21
+812,2009,Furti di automezzi pesanti trasportanti merci,46
+813,2009,Furti di ciclomotori,2027
+814,2009,Furti di motocicli,3470
+815,2009,Furti di autovetture,8684
+816,2009,Rapine totale,2523
+817,2009,Rapine in abitazione,89
+818,2009,Rapine in banca,126
+819,2009,Rapine in uffici postali,13
+820,2009,Rapine in esercizi commerciali,352
+821,2009,Rapine in pubblica via,1417
+822,2009,Estorsioni,187
+823,2009,Truffe e frodi informatiche,3975
+824,2009,Delitti informatici,257
+825,2009,Contraffazione di marchi e prodotti industriali,31
+826,2009,Violazione della propriet? intellettuale,59
+827,2009,Ricettazione,1112
+828,2009,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",34
+829,2009,Usura,16
+830,2009,Danneggiamenti,23144
+831,2009,Incendi totale,155
+832,2009,Incendi boschivi,0
+833,2009,Danneggiamento seguito da incendio,121
+834,2009,Normativa sugli stupefacenti,1537
+835,2009,Attentati,11
+836,2009,Associazione per delinquere,19
+837,2009,Associazione di tipo mafioso,1
+838,2009,Contrabbando,11
+839,2009,Altri delitti,21033
+840,2009,Reati totale,149296
+841,2008,Strage,0
+842,2008,Omicidi volontari totale,20
+843,2008,Omicidi a scopo di furto o rapina,0
+844,2008,Omicidi di tipo mafioso,0
+845,2008,Omicidi a scopo terroristico,0
+846,2008,Tentati omicidi,63
+847,2008,Infanticidi,0
+848,2008,Omicidi preterintenzionali,1
+849,2008,Omicidi colposi totale,56
+850,2008,Omicidi colposi da incidente stradale,54
+851,2008,Percosse,605
+852,2008,Lesioni dolose,2422
+853,2008,Minacce,2426
+854,2008,Sequestri di persona,90
+855,2008,Ingiurie,1487
+856,2008,Violenze sessuali,291
+857,2008,Atti sessuali con minorenne,28
+858,2008,Corruzione di minorenne,2
+859,2008,Sfruttamento e favoreggiamento della prostituzione,78
+860,2008,Pornografia minorile e detenzione di materiale pedopornografico,21
+861,2008,Furti,90986
+862,2008,furti con strappo,1294
+863,2008,Furti  con destrezza,20192
+864,2008,Furti  in abitazioni,5082
+865,2008,Furti  in esercizi commerciali,5612
+866,2008,Furti  in auto in sosta,16026
+867,2008,Furti  di opere d'arte e materiale archeologico,21
+868,2008,Furti di automezzi pesanti trasportanti merci,56
+869,2008,Furti di ciclomotori,1886
+870,2008,Furti di motocicli,3343
+871,2008,Furti di autovetture,10168
+872,2008,Rapine totale,3372
+873,2008,Rapine in abitazione,127
+874,2008,Rapine in banca,163
+875,2008,Rapine in uffici postali,16
+876,2008,Rapine in esercizi commerciali,487
+877,2008,Rapine in pubblica via,1842
+878,2008,Estorsioni,224
+879,2008,Truffe e frodi informatiche,4842
+880,2008,Delitti informatici,240
+881,2008,Contraffazione di marchi e prodotti industriali,31
+882,2008,Violazione della propriet? intellettuale,123
+883,2008,Ricettazione,1240
+884,2008,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",37
+885,2008,Usura,13
+886,2008,Danneggiamenti,22661
+887,2008,Incendi totale,182
+888,2008,Incendi boschivi,0
+889,2008,Danneggiamento seguito da incendio,163
+890,2008,Normativa sugli stupefacenti,1604
+891,2008,Attentati,18
+892,2008,Associazione per delinquere,21
+893,2008,Associazione di tipo mafioso,1
+894,2008,Contrabbando,8
+895,2008,Altri delitti,23141
+896,2008,Reati totale,156497
+897,2007,Strage,0
+898,2007,Omicidi volontari totale,22
+899,2007,Omicidi a scopo di furto o rapina,3
+900,2007,Omicidi di tipo mafioso,0
+901,2007,Omicidi a scopo terroristico,0
+902,2007,Tentati omicidi,48
+903,2007,Infanticidi,0
+904,2007,Omicidi preterintenzionali,0
+905,2007,Omicidi colposi totale,76
+906,2007,Omicidi colposi da incidente stradale,70
+907,2007,Percosse,617
+908,2007,Lesioni dolose,2336
+909,2007,Minacce,2406
+910,2007,Sequestri di persona,84
+911,2007,Ingiurie,1420
+912,2007,Violenze sessuali,291
+913,2007,Atti sessuali con minorenne,28
+914,2007,Corruzione di minorenne,9
+915,2007,Sfruttamento e favoreggiamento della prostituzione,65
+916,2007,Pornografia minorile e detenzione di materiale pedopornografico,22
+917,2007,Furti,109949
+918,2007,furti con strappo,1471
+919,2007,Furti  con destrezza,24715
+920,2007,Furti  in abitazioni,5459
+921,2007,Furti  in esercizi commerciali,6750
+922,2007,Furti  in auto in sosta,19368
+923,2007,Furti  di opere d'arte e materiale archeologico,27
+924,2007,Furti di automezzi pesanti trasportanti merci,65
+925,2007,Furti di ciclomotori,2946
+926,2007,Furti di motocicli,4380
+927,2007,Furti di autovetture,12913
+928,2007,Rapine totale,3700
+929,2007,Rapine in abitazione,135
+930,2007,Rapine in banca,257
+931,2007,Rapine in uffici postali,12
+932,2007,Rapine in esercizi commerciali,463
+933,2007,Rapine in pubblica via,2121
+934,2007,Estorsioni,186
+935,2007,Truffe e frodi informatiche,4466
+936,2007,Delitti informatici,146
+937,2007,Contraffazione di marchi e prodotti industriali,29
+938,2007,Violazione della propriet? intellettuale,111
+939,2007,Ricettazione,1655
+940,2007,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",37
+941,2007,Usura,10
+942,2007,Danneggiamenti,23805
+943,2007,Incendi totale,220
+944,2007,Incendi boschivi,0
+945,2007,Danneggiamento seguito da incendio,128
+946,2007,Normativa sugli stupefacenti,1820
+947,2007,Attentati,18
+948,2007,Associazione per delinquere,27
+949,2007,Associazione di tipo mafioso,2
+950,2007,Contrabbando,30
+951,2007,Altri delitti,20277
+952,2007,Reati totale,174040
+953,2006,Strage,0
+954,2006,Omicidi volontari totale,22
+955,2006,Omicidi a scopo di furto o rapina,2
+956,2006,Omicidi di tipo mafioso,0
+957,2006,Omicidi a scopo terroristico,0
+958,2006,Tentati omicidi,47
+959,2006,Infanticidi,0
+960,2006,Omicidi preterintenzionali,1
+961,2006,Omicidi colposi totale,63
+962,2006,Omicidi colposi da incidente stradale,54
+963,2006,Percosse,544
+964,2006,Lesioni dolose,2191
+965,2006,Minacce,2050
+966,2006,Sequestri di persona,59
+967,2006,Ingiurie,1162
+968,2006,Violenze sessuali,294
+969,2006,Atti sessuali con minorenne,13
+970,2006,Corruzione di minorenne,6
+971,2006,Sfruttamento e favoreggiamento della prostituzione,59
+972,2006,Pornografia minorile e detenzione di materiale pedopornografico,20
+973,2006,Furti,106922
+974,2006,furti con strappo,1234
+975,2006,Furti  con destrezza,22970
+976,2006,Furti  in abitazioni,4389
+977,2006,Furti  in esercizi commerciali,6644
+978,2006,Furti  in auto in sosta,17470
+979,2006,Furti  di opere d'arte e materiale archeologico,33
+980,2006,Furti di automezzi pesanti trasportanti merci,61
+981,2006,Furti di ciclomotori,3106
+982,2006,Furti di motocicli,4128
+983,2006,Furti di autovetture,14709
+984,2006,Rapine totale,3561
+985,2006,Rapine in abitazione,116
+986,2006,Rapine in banca,140
+987,2006,Rapine in uffici postali,26
+988,2006,Rapine in esercizi commerciali,535
+989,2006,Rapine in pubblica via,1982
+990,2006,Estorsioni,169
+991,2006,Truffe e frodi informatiche,3926
+992,2006,Delitti informatici,123
+993,2006,Contraffazione di marchi e prodotti industriali,30
+994,2006,Violazione della propriet? intellettuale,100
+995,2006,Ricettazione,1326
+996,2006,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",48
+997,2006,Usura,7
+998,2006,Danneggiamenti,21168
+999,2006,Incendi totale,277
+1000,2006,Incendi boschivi,0
+1001,2006,Danneggiamento seguito da incendio,157
+1002,2006,Normativa sugli stupefacenti,1447
+1003,2006,Attentati,39
+1004,2006,Associazione per delinquere,27
+1005,2006,Associazione di tipo mafioso,1
+1006,2006,Contrabbando,23
+1007,2006,Altri delitti,17935
+1008,2006,Reati totale,163817
+1009,2005,Strage,4
+1010,2005,Omicidi volontari totale,14
+1011,2005,Omicidi a scopo di furto o rapina,1
+1012,2005,Omicidi di tipo mafioso,0
+1013,2005,Omicidi a scopo terroristico,0
+1014,2005,Tentati omicidi,39
+1015,2005,Infanticidi,1
+1016,2005,Omicidi preterintenzionali,2
+1017,2005,Omicidi colposi totale,73
+1018,2005,Omicidi colposi da incidente stradale,63
+1019,2005,Percosse,582
+1020,2005,Lesioni dolose,2252
+1021,2005,Minacce,2056
+1022,2005,Sequestri di persona,74
+1023,2005,Ingiurie,1139
+1024,2005,Violenze sessuali,253
+1025,2005,Atti sessuali con minorenne,11
+1026,2005,Corruzione di minorenne,5
+1027,2005,Sfruttamento e favoreggiamento della prostituzione,80
+1028,2005,Pornografia minorile e detenzione di materiale pedopornografico,19
+1029,2005,Furti,100888
+1030,2005,furti con strappo,non disponibile
+1031,2005,Furti  con destrezza,non disponibile
+1032,2005,Furti  in abitazioni,non disponibile
+1033,2005,Furti  in esercizi commerciali,non disponibile
+1034,2005,Furti  in auto in sosta,non disponibile
+1035,2005,Furti  di opere d'arte e materiale archeologico,non disponibile
+1036,2005,Furti di automezzi pesanti trasportanti merci,non disponibile
+1037,2005,Furti di ciclomotori,non disponibile
+1038,2005,Furti di motocicli,non disponibile
+1039,2005,Furti di autovetture,non disponibile
+1040,2005,Rapine totale,2914
+1041,2005,Rapine in abitazione,non disponibile
+1042,2005,Rapine in banca,non disponibile
+1043,2005,Rapine in uffici postali,non disponibile
+1044,2005,Rapine in esercizi commerciali,non disponibile
+1045,2005,Rapine in pubblica via,non disponibile
+1046,2005,Estorsioni,163
+1047,2005,Truffe e frodi informatiche,3466
+1048,2005,Delitti informatici,89
+1049,2005,Contraffazione di marchi e prodotti industriali,48
+1050,2005,Violazione della propriet? intellettuale,173
+1051,2005,Ricettazione,1296
+1052,2005,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",23
+1053,2005,Usura,9
+1054,2005,Danneggiamenti,19028
+1055,2005,Incendi totale,223
+1056,2005,Incendi boschivi,0
+1057,2005,Danneggiamento seguito da incendio,93
+1058,2005,Normativa sugli stupefacenti,1482
+1059,2005,Attentati,23
+1060,2005,Associazione per delinquere,29
+1061,2005,Associazione di tipo mafioso,1
+1062,2005,Contrabbando,28
+1063,2005,Altri delitti,16737
+1064,2005,Reati totale,153317
+1065,2004,Strage,0
+1066,2004,Omicidi volontari totale,22
+1067,2004,Omicidi a scopo di furto o rapina,0
+1068,2004,Omicidi di tipo mafioso,0
+1069,2004,Omicidi a scopo terroristico,0
+1070,2004,Tentati omicidi,45
+1071,2004,Infanticidi,0
+1072,2004,Omicidi preterintenzionali,0
+1073,2004,Omicidi colposi totale,63
+1074,2004,Omicidi colposi da incidente stradale,54
+1075,2004,Percosse,404
+1076,2004,Lesioni dolose,1994
+1077,2004,Minacce,1717
+1078,2004,Sequestri di persona,61
+1079,2004,Ingiurie,967
+1080,2004,Violenze sessuali,224
+1081,2004,Atti sessuali con minorenne,15
+1082,2004,Corruzione di minorenne,5
+1083,2004,Sfruttamento e favoreggiamento della prostituzione,76
+1084,2004,Pornografia minorile e detenzione di materiale pedopornografico,15
+1085,2004,Furti,96128
+1086,2004,furti con strappo,non disponibile
+1087,2004,Furti  con destrezza,non disponibile
+1088,2004,Furti  in abitazioni,non disponibile
+1089,2004,Furti  in esercizi commerciali,non disponibile
+1090,2004,Furti  in auto in sosta,non disponibile
+1091,2004,Furti  di opere d'arte e materiale archeologico,non disponibile
+1092,2004,Furti di automezzi pesanti trasportanti merci,non disponibile
+1093,2004,Furti di ciclomotori,non disponibile
+1094,2004,Furti di motocicli,non disponibile
+1095,2004,Furti di autovetture,non disponibile
+1096,2004,Rapine totale,2876
+1097,2004,Rapine in abitazione,non disponibile
+1098,2004,Rapine in banca,non disponibile
+1099,2004,Rapine in uffici postali,non disponibile
+1100,2004,Rapine in esercizi commerciali,non disponibile
+1101,2004,Rapine in pubblica via,non disponibile
+1102,2004,Estorsioni,165
+1103,2004,Truffe e frodi informatiche,3163
+1104,2004,Delitti informatici,66
+1105,2004,Contraffazione di marchi e prodotti industriali,47
+1106,2004,Violazione della propriet? intellettuale,197
+1107,2004,Ricettazione,1549
+1108,2004,"Riciclaggio e impiego di denaro, beni o utilit? di provenienza illecita",51
+1109,2004,Usura,8
+1110,2004,Danneggiamenti,17150
+1111,2004,Incendi totale,217
+1112,2004,Incendi boschivi,1
+1113,2004,Danneggiamento seguito da incendio,117
+1114,2004,Normativa sugli stupefacenti,1507
+1115,2004,Attentati,12
+1116,2004,Associazione per delinquere,117
+1117,2004,Associazione di tipo mafioso,0
+1118,2004,Contrabbando,4
+1119,2004,Altri delitti,12654
+1120,2004,Reati totale,141636
