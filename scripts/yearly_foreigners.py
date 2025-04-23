@@ -21,17 +21,15 @@ def sequence(starting_year, ending_year, jump_years):
     begin = starting_year
     amounts = {'year': [], 'total':[]}
     while begin < ending_year+jump_years:
-        amounts["total"].append(count_people_per_year(begin))
+        amounts["total"].append(count_people_per_year(begin)/1000)
         amounts["year"].append(begin)
         begin = begin+jump_years
 
-    #a = pd.DataFrame(amounts)
     plt.figure(figsize=(12, 6))
-    plt.bar(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.5)
-    #a.plot(legend=False)
+    plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.5, linestyle = 'dashed')
     plt.xlabel('Anno')
-    plt.ylabel('Cittadini')
-    #plt.title(f'Stranieri tra il {starting_year} e il {ending_year} a Milano')
+    plt.ylabel('Cittadini (in migliaia)')
+    plt.xticks(amounts['year'])
     plt.tight_layout()
     plt.show()
 
