@@ -13,6 +13,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
 - [Popolazione: residenti per cittadinanza e quartiere (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=8f2dd42b-23a5-439d-ab56-be02295f4290)
 - [Nuclei d'Identità Locale (NIL) VIGENTI - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
 - [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
+- [Reati denunciati all'autorità giudiziaria dalla forze di polizia (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
 
 ## Struttura del progetto
 - Cartella principale
@@ -21,6 +22,11 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - ds75_stranieri_sesso_citt.csv
     - ds1494_popolazione-calcolata-dal-1880.csv
     - simplified_dataset.csv
+    - milan.geojson
+    - Alunni_Scuole_Secondarie_di_Secondo_Grado_per_cittadinanza_(2007_08-2023_24).csv
+    - detenuti_stranieri_2010_2020.csv
+    - infortuni_sul_lavoro.csv
+    - Reati totali serie storica.csv
 
 - graphs (cartella)
     - [Amount of foreigners within the population](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Amount%20of%20foreigners%20within%20the%20population.png)
@@ -32,6 +38,9 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [Ratio foreigners Italians 2004](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Ratio%20foreigners%20Italians%202004.png)
     - [Ratio foreigners Italians 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Ratio%20foreigners%20Italians%202024.png)
     - [Foreign Students 2024](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreign%20Students%202024.png)
+    - [Foreign men and women pie chart](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreign%20men%20and%20women%20pie%20chart.png)
+    - [Foreigners and Crimes](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreigners%20and%20Crimes.png)
+    - [Evolution of foreign detainees](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20foreign%20detainees.png)
 
 - .gitignore
 - [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
@@ -44,6 +53,9 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [foreigners_per_age.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_per_age.py)
     - [pie_chart_for_ages.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/pie_chart_for_ages.py)
     - [high_school_foreigners.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/high_school_foreigners.py)
+    - [foreign_detainees.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreign_detainees.py)
+    - [evolution_of_crimes.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/evolution_of_crimes.py)
+    - [foreigners_by_gender.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_by_gender.py)
 
 ## Note
 - Questo progetto ha usato Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
