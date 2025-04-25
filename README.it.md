@@ -14,6 +14,8 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
 - [Nuclei d'Identità Locale (NIL) VIGENTI - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
 - [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 - [Reati denunciati all'autorità giudiziaria dalla forze di polizia (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
+- [Tasso di occupazione - serie storica](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
+- [Tasso di disoccupazione - serie storica](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
 
 ## Struttura del progetto
 - Cartella principale
@@ -27,6 +29,8 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - detenuti_stranieri_2010_2020.csv
     - infortuni_sul_lavoro.csv
     - Reati totali serie storica.csv
+    - Tasso_di_occupazione.csv
+    - Tasso_di_disoccupazione.csv
 
 - graphs (cartella)
     - [Amount of foreigners within the population](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Amount%20of%20foreigners%20within%20the%20population.png)
@@ -42,6 +46,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [Foreigners and Crimes](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreigners%20and%20Crimes.png)
     - [Evolution of foreign detainees](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20foreign%20detainees.png)
     - [Comparison accidents at work for foreigners and Italians](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Comparison%20accidents%20at%20work%20for%20foreigners%20and%20Italians.png)
+    - [Evolution of employment and unemployment rates](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20employment%20and%20unemployment%20rates.png)
 
 - .gitignore
 - [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
@@ -58,6 +63,7 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
     - [evolution_of_crimes.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/evolution_of_crimes.py)
     - [foreigners_by_gender.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_by_gender.py)
     - [accidents_at_work.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/accidents_at_work.py)
+    - [employment_rate.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/employment_rate.py)
 
 ## Note
 - Questo progetto ha usato Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;

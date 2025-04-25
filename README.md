@@ -15,6 +15,8 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
 - [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 - [Crimes reported to the judicial authorities by the police force (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
 - [Inail: accidents at work reported by companies - Breakdown by citizenship](https://dati.comune.milano.it/dataset/ds1684-inail-infortuni-sul-lavoro-denunciati-dalle-aziende-suddivisione-per-cittadinanza-2010-avanti)
+- [Employment rate - historical series](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
+- [Unemployment rate - historical series](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
 
 ## Project structure
 - Main folder
@@ -28,6 +30,8 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - detenuti_stranieri_2010_2020.csv
     - infortuni_sul_lavoro.csv
     - Reati totali serie storica.csv
+    - Tasso_di_occupazione.csv
+    - Tasso_di_disoccupazione.csv
 
 - graphs (folder)
     - [Amount of foreigners within the population](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Amount%20of%20foreigners%20within%20the%20population.png)
@@ -43,6 +47,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Foreigners and Crimes](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreigners%20and%20Crimes.png)
     - [Evolution of foreign detainees](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20foreign%20detainees.png)
     - [Comparison accidents at work for foreigners and Italians](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Comparison%20accidents%20at%20work%20for%20foreigners%20and%20Italians.png)
+    - [Evolution of employment and unemployment rates](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20employment%20and%20unemployment%20rates.png)
 
 - .gitignore
 - [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
@@ -59,6 +64,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [evolution_of_crimes.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/evolution_of_crimes.py)
     - [foreigners_by_gender.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_by_gender.py)
     - [accidents_at_work.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/accidents_at_work.py)
+    - [employment_rate.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/employment_rate.py)
 
 ## Notes
 - This project used Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
