@@ -42,6 +42,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Foreign men and women pie chart](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreign%20men%20and%20women%20pie%20chart.png)
     - [Foreigners and Crimes](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Foreigners%20and%20Crimes.png)
     - [Evolution of foreign detainees](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20foreign%20detainees.png)
+    - [Comparison accidents at work for foreigners and Italians](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Comparison%20accidents%20at%20work%20for%20foreigners%20and%20Italians.png)
 
 - .gitignore
 - [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
@@ -57,6 +58,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [foreign_detainees.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreign_detainees.py)
     - [evolution_of_crimes.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/evolution_of_crimes.py)
     - [foreigners_by_gender.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_by_gender.py)
+    - [accidents_at_work.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/accidents_at_work.py)
 
 ## Notes
 - This project used Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
