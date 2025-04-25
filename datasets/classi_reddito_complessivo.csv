@@ -1,301 +1,121 @@
-﻿_id,Anno,Condizione lavorativa,Genere,Valori assoluti (in migliaia)
-1,2004,Occupati,maschi,296
-2,2004,Occupati,femmine,250
-3,2004,Occupati,totale,546
-4,2004,In cerca di Occupazione,maschi,10
-5,2004,In cerca di Occupazione,femmine,17
-6,2004,In cerca di Occupazione,totale,28
-7,2004,Forze Lavoro,maschi,307
-8,2004,Forze Lavoro,femmine,268
-9,2004,Forze Lavoro,totale,574
-10,2004,Inattivi,maschi,90
-11,2004,Inattivi,femmine,149
-12,2004,Inattivi,totale,239
-13,2004,Popolazione di riferim (15-64),maschi,396
-14,2004,Popolazione di riferim (15-64),femmine,417
-15,2004,Popolazione di riferim (15-64),totale,813
-16,2005,Occupati,maschi,305
-17,2005,Occupati,femmine,259
-18,2005,Occupati,totale,564
-19,2005,In cerca di Occupazione,maschi,13
-20,2005,In cerca di Occupazione,femmine,15
-21,2005,In cerca di Occupazione,totale,27
-22,2005,Forze Lavoro,maschi,318
-23,2005,Forze Lavoro,femmine,274
-24,2005,Forze Lavoro,totale,592
-25,2005,Inattivi,maschi,90
-26,2005,Inattivi,femmine,149
-27,2005,Inattivi,totale,238
-28,2005,Popolazione di riferim (15-64),maschi,408
-29,2005,Popolazione di riferim (15-64),femmine,423
-30,2005,Popolazione di riferim (15-64),totale,830
-31,2006,Occupati,maschi,315
-32,2006,Occupati,femmine,271
-33,2006,Occupati,totale,586
-34,2006,In cerca di Occupazione,maschi,13
-35,2006,In cerca di Occupazione,femmine,12
-36,2006,In cerca di Occupazione,totale,25
-37,2006,Forze Lavoro,maschi,328
-38,2006,Forze Lavoro,femmine,283
-39,2006,Forze Lavoro,totale,611
-40,2006,Inattivi,maschi,85
-41,2006,Inattivi,femmine,142
-42,2006,Inattivi,totale,227
-43,2006,Popolazione di riferim (15-64),maschi,413
-44,2006,Popolazione di riferim (15-64),femmine,425
-45,2006,Popolazione di riferim (15-64),totale,838
-46,2007,Occupati,maschi,319
-47,2007,Occupati,femmine,272
-48,2007,Occupati,totale,591
-49,2007,In cerca di Occupazione,maschi,12
-50,2007,In cerca di Occupazione,femmine,12
-51,2007,In cerca di Occupazione,totale,24
-52,2007,Forze Lavoro,maschi,332
-53,2007,Forze Lavoro,femmine,284
-54,2007,Forze Lavoro,totale,616
-55,2007,Inattivi,maschi,84
-56,2007,Inattivi,femmine,142
-57,2007,Inattivi,totale,225
-58,2007,Popolazione di riferim (15-64),maschi,415
-59,2007,Popolazione di riferim (15-64),femmine,426
-60,2007,Popolazione di riferim (15-64),totale,841
-61,2008,Occupati,maschi,321
-62,2008,Occupati,femmine,274
-63,2008,Occupati,totale,595
-64,2008,In cerca di Occupazione,maschi,13
-65,2008,In cerca di Occupazione,femmine,13
-66,2008,In cerca di Occupazione,totale,26
-67,2008,Forze Lavoro,maschi,333
-68,2008,Forze Lavoro,femmine,288
-69,2008,Forze Lavoro,totale,621
-70,2008,Inattivi,maschi,78
-71,2008,Inattivi,femmine,133
-72,2008,Inattivi,totale,212
-73,2008,Popolazione di riferim (15-64),maschi,412
-74,2008,Popolazione di riferim (15-64),femmine,421
-75,2008,Popolazione di riferim (15-64),totale,833
-76,2009,Occupati,maschi,311
-77,2009,Occupati,femmine,261
-78,2009,Occupati,totale,572
-79,2009,In cerca di Occupazione,maschi,21
-80,2009,In cerca di Occupazione,femmine,18
-81,2009,In cerca di Occupazione,totale,38
-82,2009,Forze Lavoro,maschi,332
-83,2009,Forze Lavoro,femmine,279
-84,2009,Forze Lavoro,totale,611
-85,2009,Inattivi,maschi,75
-86,2009,Inattivi,femmine,137
-87,2009,Inattivi,totale,213
-88,2009,Popolazione di riferim (15-64),maschi,407
-89,2009,Popolazione di riferim (15-64),femmine,416
-90,2009,Popolazione di riferim (15-64),totale,824
-91,2010,Occupati,maschi,309
-92,2010,Occupati,femmine,263
-93,2010,Occupati,totale,573
-94,2010,In cerca di Occupazione,maschi,18
-95,2010,In cerca di Occupazione,femmine,17
-96,2010,In cerca di Occupazione,totale,35
-97,2010,Forze Lavoro,maschi,328
-98,2010,Forze Lavoro,femmine,281
-99,2010,Forze Lavoro,totale,608
-100,2010,Inattivi,maschi,82
-101,2010,Inattivi,femmine,137
-102,2010,Inattivi,totale,220
-103,2010,Popolazione di riferim (15-64),maschi,410
-104,2010,Popolazione di riferim (15-64),femmine,418
-105,2010,Popolazione di riferim (15-64),totale,828
-106,2011,Occupati,maschi,315
-107,2011,Occupati,femmine,269
-108,2011,Occupati,totale,584
-109,2011,In cerca di Occupazione,maschi,17
-110,2011,In cerca di Occupazione,femmine,15
-111,2011,In cerca di Occupazione,totale,32
-112,2011,Forze Lavoro,maschi,333
-113,2011,Forze Lavoro,femmine,284
-114,2011,Forze Lavoro,totale,617
-115,2011,Inattivi,maschi,82
-116,2011,Inattivi,femmine,139
-117,2011,Inattivi,totale,222
-118,2011,Popolazione di riferim (15-64),maschi,415
-119,2011,Popolazione di riferim (15-64),femmine,423
-120,2011,Popolazione di riferim (15-64),totale,838
-121,2012,Occupati,maschi,309
-122,2012,Occupati,femmine,284
-123,2012,Occupati,totale,593
-124,2012,In cerca di Occupazione,maschi,24
-125,2012,In cerca di Occupazione,femmine,21
-126,2012,In cerca di Occupazione,totale,45
-127,2012,Forze di lavoro,maschi,333
-128,2012,Forze di lavoro,femmine,305
-129,2012,Forze di lavoro,totale,638
-130,2012,Inattivi,maschi,88
-131,2012,Inattivi,femmine,123
-132,2012,Inattivi,totale,211
-133,2012,Popolazione di riferim (15-64),maschi,421
-134,2012,Popolazione di riferim (15-64),femmine,428
-135,2012,Popolazione di riferim (15-64),totale,849
-136,2013,Occupati,maschi,316
-137,2013,Occupati,femmine,284
-138,2013,Occupati,totale,599
-139,2013,In cerca di Occupazione ,maschi,21
-140,2013,In cerca di Occupazione ,femmine,21
-141,2013,In cerca di Occupazione ,totale,42
-142,2013,Forze di lavoro,maschi,337
-143,2013,Forze di lavoro,femmine,305
-144,2013,Forze di lavoro,totale,641
-145,2013,Inattivi,maschi,90
-146,2013,Inattivi,femmine,126
-147,2013,Inattivi,totale,215
-148,2013,Popolazione di riferim.(15 -64 anni),maschi,427
-149,2013,Popolazione di riferim.(15 -64 anni),femmine,430
-150,2013,Popolazione di riferim.(15 -64 anni),totale,857
-151,2014,Occupati,maschi,313
-152,2014,Occupati,femmine,277
-153,2014,Occupati,totale,590
-154,2014,In cerca di Occupazione ,maschi,31
-155,2014,In cerca di Occupazione ,femmine,23
-156,2014,In cerca di Occupazione ,totale,54
-157,2014,Forze di lavoro,maschi,343
-158,2014,Forze di lavoro,femmine,301
-159,2014,Forze di lavoro,totale,644
-160,2014,Inattivi,maschi,84
-161,2014,Inattivi,femmine,129
-162,2014,Inattivi,totale,213
-163,2014,Popolazione di riferim.(15 -64 anni),maschi,427
-164,2014,Popolazione di riferim.(15 -64 anni),femmine,430
-165,2014,Popolazione di riferim.(15 -64 anni),totale,857
-166,2015,Occupati,maschi,314
-167,2015,Occupati,femmine,274
-168,2015,Occupati,totale,587
-169,2015,In cerca di Occupazione ,maschi,25
-170,2015,In cerca di Occupazione ,femmine,22
-171,2015,In cerca di Occupazione ,totale,47
-172,2015,Forze di lavoro,maschi,339
-173,2015,Forze di lavoro,femmine,296
-174,2015,Forze di lavoro,totale,634
-175,2015,Inattivi,maschi,77
-176,2015,Inattivi,femmine,126
-177,2015,Inattivi,totale,203
-178,2015,Popolazione di riferim.(15 -64 anni),maschi,415
-179,2015,Popolazione di riferim.(15 -64 anni),femmine,422
-180,2015,Popolazione di riferim.(15 -64 anni),totale,837
-181,2016,Occupati,maschi,320
-182,2016,Occupati,femmine,279
-183,2016,Occupati,totale,600
-184,2016,In cerca di Occupazione ,maschi,22
-185,2016,In cerca di Occupazione ,femmine,18
-186,2016,In cerca di Occupazione ,totale,40
-187,2016,Forze di lavoro,maschi,343
-188,2016,Forze di lavoro,femmine,297
-189,2016,Forze di lavoro,totale,639
-190,2016,Inattivi,maschi,79
-191,2016,Inattivi,femmine,130
-192,2016,Inattivi,totale,209
-193,2016,Popolazione di riferim.(15 -64 anni),maschi,422
-194,2016,Popolazione di riferim.(15 -64 anni),femmine,427
-195,2016,Popolazione di riferim.(15 -64 anni),totale,849
-196,2017,Occupati,maschi,325
-197,2017,Occupati,femmine,282
-198,2017,Occupati,totale,607
-199,2017,In cerca di Occupazione ,maschi,21
-200,2017,In cerca di Occupazione ,femmine,20
-201,2017,In cerca di Occupazione ,totale,41
-202,2017,Forze di lavoro,maschi,346
-203,2017,Forze di lavoro,femmine,302
-204,2017,Forze di lavoro,totale,648
-205,2017,Inattivi,maschi,80
-206,2017,Inattivi,femmine,128
-207,2017,Inattivi,totale,209
-208,2017,Popolazione di riferim.(15 -64 anni),maschi,426
-209,2017,Popolazione di riferim.(15 -64 anni),femmine,430
-210,2017,Popolazione di riferim.(15 -64 anni),totale,856
-211,2018,Occupati,maschi,328
-212,2018,Occupati,femmine,291
-213,2018,Occupati,totale,619
-214,2018,In cerca di Occupazione ,maschi,21
-215,2018,In cerca di Occupazione ,femmine,21
-216,2018,In cerca di Occupazione ,totale,42
-217,2018,Forze di lavoro,maschi,349
-218,2018,Forze di lavoro,femmine,311
-219,2018,Forze di lavoro,totale,661
-220,2018,Inattivi,maschi,83
-221,2018,Inattivi,femmine,124
-222,2018,Inattivi,totale,207
-223,2018,Popolazione di riferim.(15 -64 anni),maschi,433
-224,2018,Popolazione di riferim.(15 -64 anni),femmine,435
-225,2018,Popolazione di riferim.(15 -64 anni),totale,868
-226,2019,Occupati,maschi,333
-227,2019,Occupati,femmine,306
-228,2019,Occupati,totale,639
-229,2019,In cerca di Occupazione ,maschi,17
-230,2019,In cerca di Occupazione ,femmine,17
-231,2019,In cerca di Occupazione ,totale,34
-232,2019,Forze di lavoro,maschi,350
-233,2019,Forze di lavoro,femmine,323
-234,2019,Forze di lavoro,totale,673
-235,2019,Inattivi,maschi,89
-236,2019,Inattivi,femmine,117
-237,2019,Inattivi,totale,206
-238,2019,Popolazione di riferim.(15 -64 anni),maschi,440
-239,2019,Popolazione di riferim.(15 -64 anni),femmine,439
-240,2019,Popolazione di riferim.(15 -64 anni),totale,879
-241,2020,Occupati,maschi,328
-242,2020,Occupati,femmine,303
-243,2020,Occupati,totale,631
-244,2020,In cerca di Occupazione ,maschi,24
-245,2020,In cerca di Occupazione ,femmine,17
-246,2020,In cerca di Occupazione ,totale,41
-247,2020,Forze di lavoro,maschi,352
-248,2020,Forze di lavoro,femmine,320
-249,2020,Forze di lavoro,totale,672
-250,2020,Inattivi,maschi,95
-251,2020,Inattivi,femmine,126
-252,2020,Inattivi,totale,221
-253,2020,Popolazione di riferim.(15 -64 anni),maschi,446
-254,2020,Popolazione di riferim.(15 -64 anni),femmine,446
-255,2020,Popolazione di riferim.(15 -64 anni),totale,892
-256,2021,Occupati,maschi,331
-257,2021,Occupati,femmine,296
-258,2021,Occupati,totale,627
-259,2021,In cerca di Occupazione ,maschi,24
-260,2021,In cerca di Occupazione ,femmine,22
-261,2021,In cerca di Occupazione ,totale,46
-262,2021,Forze di lavoro,maschi,354
-263,2021,Forze di lavoro,femmine,319
-264,2021,Forze di lavoro,totale,673
-265,2021,Inattivi,maschi,91
-266,2021,Inattivi,femmine,127
-267,2021,Inattivi,totale,218
-268,2021,Popolazione di riferim.(15 -64 anni),maschi,445
-269,2021,Popolazione di riferim.(15 -64 anni),femmine,446
-270,2021,Popolazione di riferim.(15 -64 anni),totale,891
-271,2022,Occupati,maschi,341
-272,2022,Occupati,femmine,296
-273,2022,Occupati,totale,637
-274,2022,In cerca di Occupazione ,maschi,19
-275,2022,In cerca di Occupazione ,femmine,22
-276,2022,In cerca di Occupazione ,totale,41
-277,2022,Forze di lavoro,maschi,360
-278,2022,Forze di lavoro,femmine,318
-279,2022,Forze di lavoro,totale,677
-280,2022,Inattivi,maschi,81
-281,2022,Inattivi,femmine,122
-282,2022,Inattivi,totale,203
-283,2022,Popolazione di riferim.(15 -64 anni),maschi,440
-284,2022,Popolazione di riferim.(15 -64 anni),femmine,440
-285,2022,Popolazione di riferim.(15 -64 anni),totale,880
-286,2023,Occupati,maschi,334
-287,2023,Occupati,femmine,298
-288,2023,Occupati,totale,632
-289,2023,In cerca di Occupazione ,maschi,17
-290,2023,In cerca di Occupazione ,femmine,18
-291,2023,In cerca di Occupazione ,totale,35
-292,2023,Forze di lavoro,maschi,351
-293,2023,Forze di lavoro,femmine,315
-294,2023,Forze di lavoro,totale,666
-295,2023,Inattivi,maschi,87
-296,2023,Inattivi,femmine,119
-297,2023,Inattivi,totale,206
-298,2023,Popolazione di riferim.(15 -64 anni),maschi,439
-299,2023,Popolazione di riferim.(15 -64 anni),femmine,434
-300,2023,Popolazione di riferim.(15 -64 anni),totale,873
+﻿_id,Anno,Classi di reddito complessivo in euro,Frequenza persone fisiche,Ammontare in euro
+1,2022,minore o uguale a 0 ,276,-2578924
+2,2022,da 0 a 10.000,225577,998617896
+3,2022,da 10.000 a 15.000,98103,1225006301
+4,2022,da 15.000 a 26.000,230340,4728641072
+5,2022,da 26.000 a 55.000,290425,10675107984
+6,2022,da 55.000 a 75.000,59026,3769132943
+7,2022,da 75.000 a 120.000,52554,4872320246
+8,2022,oltre 120.000,43177,12752429443
+9,2021,minore o uguale a 0 ,329,-3053402
+10,2021,da 0 a 10.000,231682,1033617146
+11,2021,da 10.000 a 15.000,98917,1235661686
+12,2021,da 15.000 a 26.000,227611,4655052971
+13,2021,da 26.000 a 55.000,274761,10063265184
+14,2021,da 55.000 a 75.000,54909,3505903823
+15,2021,da 75.000 a 120.000,48060,4459410350
+16,2021,oltre 120.000,38323,11294176614
+17,2020,minore o uguale a 0 ,456,-3219045
+18,2020,da 0 a 10.000,241948,1095992447
+19,2020,da 10.000 a 15.000,102265,1278052047
+20,2020,da 15.000 a 26.000,225439,4605079255
+21,2020,da 26.000 a 55.000,267489,9773307243
+22,2020,da 55.000 a 75.000,52028,3321778565
+23,2020,da 75.000 a 120.000,45235,4186470856
+24,2020,oltre 120.000,34665,9816834893
+25,2019,minore o uguale a 0 ,316,-3846576
+26,2019,da 0 a 10.000,238111,1087037744
+27,2019,da 10.000 a 15.000,101413,1266215969
+28,2019,da 15.000 a 26.000,240092,4910759985
+29,2019,da 26.000 a 55.000,276262,10075891655
+30,2019,da 55.000 a 75.000,53238,3398464192
+31,2019,da 75.000 a 120.000,45369,4194927285
+32,2019,oltre 120.000,35423,10307853897
+33,2018,minore o uguale a 0 ,412,-3348729
+34,2018,da 0 a 10.000,236486,1112491928
+35,2018,da 10.000 a 15.000,104043,1299342731
+36,2018,da 15.000 a 26.000,245212,5014246181
+37,2018,da 26.000 a 55.000,275918,10059066334
+38,2018,da 55.000 a 75.000,53001,3381773939
+39,2018,da 75.000 a 120.000,44602,4129561136
+40,2018,oltre 120.000,35234,10162649434
+41,2017,minore o uguale a 0 ,5161,-147776538
+42,2017,da 0 a 10.000,237544,1122607980
+43,2017,da 10.000 a 15.000,104034,1299218938
+44,2017,da 15.000 a 26.000,246735,5035845250
+45,2017,da 26.000 a 55.000,265512,9652942821
+46,2017,da 55.000 a 75.000,50216,3204244127
+47,2017,da 75.000 a 120.000,41845,3866422921
+48,2017,oltre 120.000,32538,9280409471
+49,2016,minore o uguale a 0 ,3308,-36338697
+50,2016,da 0 a 10.000,234867,1116913552
+51,2016,da 10.000 a 15.000,104603,1306727578
+52,2016,da 15.000 a 26.000,249131,5082613094
+53,2016,da 26.000 a 55.000,260455,9442351944
+54,2016,da 55.000 a 75.000,48935,3122298134
+55,2016,da 75.000 a 120.000,40549,3740201710
+56,2016,oltre 120.000,31088,8750443743
+57,2015,minore o uguale a 0 ,3284,-35651521
+58,2015,da 0 a 10.000,239146,1134421205
+59,2015,da 10.000 a 15.000,103708,1296934603
+60,2015,da 15.000 a 26.000,248321,5057285026
+61,2015,da 26.000 a 55.000,258944,9393031835
+62,2015,da 55.000 a 75.000,47723,3045682216
+63,2015,da 75.000 a 120.000,39927,3687646265
+64,2015,oltre 120.000,30316,8518112697
+65,2014,minore o uguale a 0 ,3979,-38797290
+66,2014,da 0 a 10.000,237201,1120261085
+67,2014,da 10.000 a 15.000,102525,1282749594
+68,2014,da 15.000 a 26.000,253601,5162334584
+69,2014,da 26.000 a 55.000,250904,9067391931
+70,2014,da 55.000 a 75.000,46205,2948695112
+71,2014,da 75.000 a 120.000,38417,3545615998
+72,2014,oltre 120.000,28780,8142749247
+73,2013,minore o uguale a 0 ,4231,-40589252
+74,2013,da 0 a 10.000,231565,1109441397
+75,2013,da 10.000 a 15.000,104271,1305419307
+76,2013,da 15.000 a 26.000,257827,5236175425
+77,2013,da 26.000 a 55.000,245903,8861696738
+78,2013,da 55.000 a 75.000,44857,2862493932
+79,2013,da 75.000 a 120.000,36817,3403353134
+80,2013,oltre 120.000,27669,7643107036
+81,2012,minore o uguale a 0 ,4211,-41187764
+82,2012,da 0 a 10.000,235896,1150813145
+83,2012,da 10.000 a 15.000,109037,1367289064
+84,2012,da 15.000 a 26.000,259959,5263818217
+85,2012,da 26.000 a 55.000,239653,8665114919
+86,2012,da 55.000 a 75.000,44346,2830658359
+87,2012,da 75.000 a 120.000,36641,3386773375
+88,2012,oltre 120.000,27328,7599383167
+89,2011,minore o uguale a 0 ,3378,-35240653
+90,2011,da 0 a 10.000,244114,1146058430
+91,2011,da 10.000 a 15.000,109381,1373127334
+92,2011,da 15.000 a 26.000,259032,5242581952
+93,2011,da 26.000 a 55.000,238959,8608800663
+94,2011,da 55.000 a 75.000,44508,2840034361
+95,2011,da 75.000 a 120.000,37235,3445101975
+96,2011,oltre 120.000,28240,7923965663
+97,2010,minore o uguale a 0 ,3612,-36278202
+98,2010,da 0 a 10.000,246097,1163273499
+99,2010,da 10.000 a 15.000,112531,1414689429
+100,2010,da 15.000 a 26.000,264861,5348909629
+101,2010,da 26.000 a 55.000,233631,8424140434
+102,2010,da 55.000 a 75.000,42883,2735502947
+103,2010,da 75.000 a 120.000,35497,3286743767
+104,2010,oltre 120.000,26938,7465240953
+105,2009,minore o uguale a 0 ,3767,-40805702
+106,2009,da 0 a 10.000,243445,1163249833
+107,2009,da 10.000 a 15.000,113778,1432493095
+108,2009,da 15.000 a 26.000,269042,5425863696
+109,2009,da 26.000 a 55.000,231319,8318478480
+110,2009,da 55.000 a 75.000,41674,2659430898
+111,2009,da 75.000 a 120.000,34636,3213239107
+112,2009,oltre 120.000,25768,7064058827
+113,2008,minore o uguale a 0 ,3496,-35378866
+114,2008,da 0 a 10.000,246479,1199414590
+115,2008,da 10.000 a 15.000,120895,1524301878
+116,2008,da 15.000 a 26.000,273948,5508714727
+117,2008,da 26.000 a 55.000,227021,8180792956
+118,2008,da 55.000 a 75.000,41460,2646926945
+119,2008,da 75.000 a 120.000,34044,3159763370
+120,2008,oltre 120.000,26730,7576923127

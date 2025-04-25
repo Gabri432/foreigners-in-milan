@@ -32,6 +32,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - Reati totali serie storica.csv
     - Tasso_di_occupazione.csv
     - Tasso_di_disoccupazione.csv
+    - classi_reddito_complessivo.csv
 
 - graphs (folder)
     - [Amount of foreigners within the population](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Amount%20of%20foreigners%20within%20the%20population.png)
@@ -48,6 +49,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [Evolution of foreign detainees](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20foreign%20detainees.png)
     - [Comparison accidents at work for foreigners and Italians](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Comparison%20accidents%20at%20work%20for%20foreigners%20and%20Italians.png)
     - [Evolution of employment and unemployment rates](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20employment%20and%20unemployment%20rates.png)
+    - [Evolution of income ranges](https://github.com/Gabri432/foreigners-in-milan/blob/master/graphs/Evolution%20of%20income%20ranges.png)
 
 - .gitignore
 - [Presentazione Visualizzazione Scientifica.pdf](https://github.com/Gabri432/foreigners-in-milan/blob/master/Presentazione%20Visualizzazione%20Scientifica.pdf)
@@ -65,6 +67,7 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
     - [foreigners_by_gender.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/foreigners_by_gender.py)
     - [accidents_at_work.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/accidents_at_work.py)
     - [employment_rate.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/employment_rate.py)
+    - [income_evolution.py](https://github.com/Gabri432/foreigners-in-milan/blob/master/scripts/income_evolution.py)
 
 ## Notes
 - This project used Python 3.12.4, pip 24, plotly 6.0.1, pandas 2.2.3, numpy 2.2.3, matplotlib 3.10.1;
