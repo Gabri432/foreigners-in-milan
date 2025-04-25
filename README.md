@@ -17,9 +17,12 @@ The goal is to give an idea of the actual impact of foreigners in Milan.
 - [Inail: accidents at work reported by companies - Breakdown by citizenship](https://dati.comune.milano.it/dataset/ds1684-inail-infortuni-sul-lavoro-denunciati-dalle-aziende-suddivisione-per-cittadinanza-2010-avanti)
 - [Employment rate - historical series](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
 - [Unemployment rate - historical series](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
+- [Incomes: distribution of total income of the people](https://dati.comune.milano.it/dataset/ds531_distribuzione-del-reddito-complessivo-delle-persone-fisiche-2008-avanti)
 
 ## Project structure
 - Main folder
+- README.md
+- README.it.md
 
 - datasets (folder)
     - ds75_stranieri_sesso_citt.csv

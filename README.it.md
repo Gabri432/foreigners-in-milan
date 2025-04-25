@@ -16,9 +16,12 @@ L'obiettivo è quello di dare un'idea di quella che è la vera portata degli str
 - [Reati denunciati all'autorità giudiziaria dalla forze di polizia (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
 - [Tasso di occupazione - serie storica](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
 - [Tasso di disoccupazione - serie storica](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
+- [Redditi: distribuzione del reddito complessivo delle persone fisiche](https://dati.comune.milano.it/dataset/ds531_distribuzione-del-reddito-complessivo-delle-persone-fisiche-2008-avanti)
 
 ## Struttura del progetto
 - Cartella principale
+- README.md
+- README.it.md
 
 - datasets (cartella)
     - ds75_stranieri_sesso_citt.csv
