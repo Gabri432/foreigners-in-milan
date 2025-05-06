@@ -44,15 +44,15 @@ def get_crimes_per_year(starting_year, last_year):
     ax2 = ax1.twinx()
 
     ax1.set_xlabel("Anno")
-    ax1.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Crimini")
-    ax2.plot(foreigners_amount['year'], foreigners_amount['total'], color='blue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Popolazione straniera")
+    ax1.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.8, label="Crimini")
+    ax2.plot(foreigners_amount['year'], foreigners_amount['total'], color='blue', zorder=2, alpha=0.7, label="Popolazione straniera")
     ax1.set_ylabel("Crimini (in migliaia)")
     ax2.set_ylabel("Popolazione straniera (in migliaia)")
 
     fig.suptitle("Andamento popolazione stranieria e criminalità", fontsize=20)
     fig.legend(loc="upper right", bbox_to_anchor=(1,1), bbox_transform=ax1.transAxes)
     #plt.figure(figsize=(12, 6))
-    #plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.7, linestyle = 'dashed')
+    #plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.7)
     #plt.xlabel('Anno')
     plt.xticks(amounts['year'])
     #plt.ylabel('Crimini (in migliaia)')

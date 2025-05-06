@@ -35,8 +35,8 @@ def display_data(starting_year, ending_year):
     ax2 = ax1.twinx()
 
     ax1.set_xlabel("Anno")
-    ax1.plot(amounts['year'], amounts['total']["employment"], color='skyblue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Occupazione")
-    ax2.plot(amounts['year'], amounts['total']["unemployment"], color='blue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Disoccupazione")
+    ax1.plot(amounts['year'], amounts['total']["employment"], color='skyblue', zorder=2, alpha=0.8, label="Occupazione")
+    ax2.plot(amounts['year'], amounts['total']["unemployment"], color='blue', zorder=2, alpha=0.7, label="Disoccupazione")
     ax1.set_ylabel("Percentuali occupazione e disoccupazione")
 
     fig.suptitle("Andamento occupazione e disoccupazione (2004-2022)", fontsize=20)

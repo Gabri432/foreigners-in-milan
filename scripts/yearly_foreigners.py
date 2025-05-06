@@ -26,7 +26,7 @@ def sequence(starting_year, ending_year, jump_years):
         begin = begin+jump_years
 
     plt.figure(figsize=(12, 6))
-    plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.5, linestyle = 'dashed')
+    plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.8)
     plt.xlabel('Anno')
     plt.ylabel('Cittadini (in migliaia)')
     plt.xticks(amounts['year'])

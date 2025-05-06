@@ -41,8 +41,8 @@ def display_data(starting_year, ending_year):
     ax2 = ax1.twinx()
 
     ax1.set_xlabel("Anno")
-    ax1.plot(amounts['year'], amounts['total']["italians"], color='skyblue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Infortuni d'italiani")
-    ax2.plot(amounts['year'], amounts['total']["foreigners"], color='blue', zorder=2, alpha=0.7, linestyle = 'dashed', label="Infortuni di stranieri")
+    ax1.plot(amounts['year'], amounts['total']["italians"], color='skyblue', zorder=2, alpha=0.8, label="Infortuni d'italiani")
+    ax2.plot(amounts['year'], amounts['total']["foreigners"], color='blue', zorder=2, alpha=0.7, label="Infortuni di stranieri")
     ax1.set_ylabel("Numero infortuni")
 
     fig.suptitle("Andamento infortuni sul lavoro (2010-2022)", fontsize=20)

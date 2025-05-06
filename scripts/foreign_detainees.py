@@ -22,7 +22,7 @@ def get_detainees_per_year(starting_year, last_year):
     
     plt.figure(figsize=(12, 6))
     #plt.bar(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.5)
-    plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.7, linestyle = 'dashed')
+    plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.8)
     plt.xlabel('Anno')
     plt.ylabel('Detenuti Stranieri')
     plt.tight_layout()
