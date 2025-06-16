@@ -20,7 +20,7 @@ bins = age_frequencies.groupby('bins', observed=True)['Residenti'].sum()
 
 plt.figure(figsize=(12, 6))
 plt.bar(bins.index.astype(str), bins.values, 
-        color=["#0022AB"], 
+        color=["#0099FF"], 
         width=0.3, zorder=2, alpha=0.5)
 plt.ylabel('Cittadini')
 plt.xlabel('Anni di età')

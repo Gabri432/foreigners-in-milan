@@ -15,6 +15,6 @@ fig = px.choropleth(nationality_frequencies,
                     locationmode="country names",
                     color="Residenti",
                     hover_name="Residenti",
-                    color_continuous_scale=px.colors.sequential.tempo)
+                    color_continuous_scale=px.colors.sequential.Blues)
 
 fig.show()

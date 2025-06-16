@@ -18,7 +18,7 @@ filtered_nationalities = filtered_nationalities.sort_values(by='Residenti', asce
 
 plt.figure(figsize=(12, 6))
 plt.barh(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residenti'], 
-        color=["#0022AB"], 
+        color=["#0099FF"], 
         height=0.3, zorder=2, alpha=0.5)
 #plt.bar(...width=0.3)
 plt.ylabel('Nazionalità')

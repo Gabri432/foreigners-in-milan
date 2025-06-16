@@ -21,7 +21,7 @@ ratios = pd.Series(
 fig, ax = plt.subplots(figsize=(12, 12))
 ratios.plot.pie(
     ax=ax,
-    colors=["blue", "skyblue"],
+    colors=["#0099FF", "skyblue"],
     startangle=90,
     labeldistance=None,
     wedgeprops={"alpha": 0.5},
