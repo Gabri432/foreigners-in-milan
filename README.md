@@ -8,16 +8,17 @@ In this project we are going to track exactly how much. Specifically, we will fi
 The goal is to give an idea of the actual impact of foreigners in Milan.
 
 ## Resources (in Italian)
-- [Foreigners: residents per nationality and gender (1987-2024)](https://www.dati.gov.it/view-dataset/dataset?id=936fe601-0f47-43d8-9642-bdaf064f57f3)
-- [Calculated/Estimated population - historical series since 1880](https://www.dati.gov.it/view-dataset/dataset?id=8d6d9168-2128-416f-910b-e76b29cdbf5c)
-- [Population: residents per nationality and city zone (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=8f2dd42b-23a5-439d-ab56-be02295f4290)
-- [CURRENT local identity nuclei (NIL) - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
+- [Foreigners: residents per nationality and gender (1987-2024)](https://www.dati.gov.it/view-dataset/dataset?id=941c19d7-0325-4a5d-8673-f95d8e205776)
+- [Calculated/Estimated population - historical series since 1880](https://www.dati.gov.it/view-dataset/dataset?id=5cd13eef-346b-49a3-bbc4-a91ea9beba87)
+- [Population: residents per nationality and city zone (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=43e88d43-7cce-4dfb-9802-71724cb6fc90)
+- [CURRENT local identity nuclei (NIL) - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=68c2fed8-9e52-4b9f-a8ad-4fdf1afdb2d0)
 - [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 - [Crimes reported to the judicial authorities by the police force (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
 - [Inail: accidents at work reported by companies - Breakdown by citizenship](https://dati.comune.milano.it/dataset/ds1684-inail-infortuni-sul-lavoro-denunciati-dalle-aziende-suddivisione-per-cittadinanza-2010-avanti)
 - [Employment rate - historical series](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
 - [Unemployment rate - historical series](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
 - [Incomes: distribution of total income of the people](https://dati.comune.milano.it/dataset/ds531_distribuzione-del-reddito-complessivo-delle-persone-fisiche-2008-avanti)
+- [Foreign detainees variation (2010-2020)](https://www.dati.gov.it/view-dataset/dataset?id=01523186-7042-4aaf-bb28-92f4e0cbe73b)
 
 ## Project structure
 - Main folder

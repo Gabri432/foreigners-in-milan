@@ -8,15 +8,16 @@ In questo progetto noi cerchiamo di tenere traccia di esattamente quanto. Nello 
 L'obiettivo è quello di dare un'idea di quella che è la vera portata degli stranieri a Milano.
 
 ## Risorse (in italiano)
-- [Stranieri: residenti per cittadinanza e genere (1987-2024)](https://www.dati.gov.it/view-dataset/dataset?id=936fe601-0f47-43d8-9642-bdaf064f57f3)
-- [Popolazione calcolata - serie storica dal 1880](https://www.dati.gov.it/view-dataset/dataset?id=8d6d9168-2128-416f-910b-e76b29cdbf5c)
-- [Popolazione: residenti per cittadinanza e quartiere (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=8f2dd42b-23a5-439d-ab56-be02295f4290)
-- [Nuclei d'Identità Locale (NIL) VIGENTI - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=c46c6fd8-93d0-4a19-94f2-fc226219b6b3)
+- [Stranieri: residenti per cittadinanza e genere (1987-2024)](https://www.dati.gov.it/view-dataset/dataset?id=941c19d7-0325-4a5d-8673-f95d8e205776)
+- [Popolazione calcolata - serie storica dal 1880](https://www.dati.gov.it/view-dataset/dataset?id=5cd13eef-346b-49a3-bbc4-a91ea9beba87)
+- [Popolazione: residenti per cittadinanza e quartiere (1999-2024)](https://www.dati.gov.it/view-dataset/dataset?id=43e88d43-7cce-4dfb-9802-71724cb6fc90)
+- [Nuclei d'Identità Locale (NIL) VIGENTI - PGT 2030](https://www.dati.gov.it/view-dataset/dataset?id=68c2fed8-9e52-4b9f-a8ad-4fdf1afdb2d0)
 - [High school students per nationality (2007-2024)](https://sisi.comune.milano.it/mistat/extensions/MiStat/MiStat_Analisi.html?IdFD_MenuNavigazione=qry_scuolesup_ac_alunni_cittad)
 - [Reati denunciati all'autorità giudiziaria dalla forze di polizia (2004-2023)](https://dati.comune.milano.it/dataset/ds564-reati-denunciati-all-autorita-giudiziaria-dalla-forze-di-polizia)
 - [Tasso di occupazione - serie storica](https://dati.comune.milano.it/dataset/ds1497-tasso-di-occupazione)
 - [Tasso di disoccupazione - serie storica](https://dati.comune.milano.it/dataset/ds1498-tasso-di-disoccupazione)
 - [Redditi: distribuzione del reddito complessivo delle persone fisiche](https://dati.comune.milano.it/dataset/ds531_distribuzione-del-reddito-complessivo-delle-persone-fisiche-2008-avanti)
+- [Variazione carcerati stranieri (2010-2020)](https://www.dati.gov.it/view-dataset/dataset?id=01523186-7042-4aaf-bb28-92f4e0cbe73b)
 
 ## Struttura del progetto
 - Cartella principale
