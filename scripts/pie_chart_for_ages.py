@@ -30,7 +30,8 @@ wedges, _ = ax.pie(
     labels=None,
     startangle=90,
     colors=["#22EEFF", "#00ABFF", "#0055FF"],
-    wedgeprops={"alpha": 0.5}
+    wedgeprops={"alpha": 0.5},
+    explode=[0.03] * len(bins.values)
 )
 
 fig.suptitle(
