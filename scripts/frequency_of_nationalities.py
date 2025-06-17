@@ -24,6 +24,8 @@ plt.barh(filtered_nationalities['Cittadinanza'], filtered_nationalities['Residen
 plt.ylabel('Nazionalità')
 plt.xlabel('Cittadini')
 plt.xticks(fontsize=12)
+plt.gca().spines['right'].set_color('none')
+plt.gca().spines['top'].set_color('none')
 #plt.title(f'Nazionalità che superano le {min_value} persone')
 plt.tight_layout()
 plt.show()

@@ -30,6 +30,8 @@ def sequence(starting_year, ending_year, jump_years):
     plt.xlabel('Anno')
     plt.ylabel('Cittadini (in migliaia)')
     plt.xticks(amounts['year'])
+    plt.gca().spines['right'].set_color('none')
+    plt.gca().spines['top'].set_color('none')
     plt.tight_layout()
     plt.show()
 

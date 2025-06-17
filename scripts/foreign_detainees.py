@@ -25,6 +25,8 @@ def get_detainees_per_year(starting_year, last_year):
     plt.plot(amounts['year'], amounts['total'], color='skyblue', zorder=2, alpha=0.8)
     plt.xlabel('Anno')
     plt.ylabel('Detenuti Stranieri')
+    plt.gca().spines['right'].set_color('none')
+    plt.gca().spines['top'].set_color('none')
     plt.tight_layout()
     plt.show()
 

@@ -38,6 +38,8 @@ def sequence(starting_year, ending_year, jump_years):
     plt.legend(loc='upper left')
     plt.xlabel('Anno')
     plt.ylabel('Popolazione totale (in milioni)')
+    plt.gca().spines['right'].set_color('none')
+    plt.gca().spines['top'].set_color('none')
     plt.tight_layout()
     plt.show()
 

@@ -25,5 +25,7 @@ plt.bar(bins.index.astype(str), bins.values,
 plt.ylabel('Cittadini')
 plt.xlabel('Anni di età')
 plt.xticks(fontsize=12)
+plt.gca().spines['right'].set_color('none')
+plt.gca().spines['top'].set_color('none')
 plt.tight_layout()
 plt.show()
