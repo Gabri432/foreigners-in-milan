@@ -54,6 +54,8 @@ def display_data(starting_year, ending_year):
 
     plt.title("Andamento fasce di reddito (2008-2022)", fontsize=20)
     plt.legend(loc="upper left", title="Reddito in euro")
+    plt.gca().spines['right'].set_color('none')
+    plt.gca().spines['top'].set_color('none')
     plt.xticks(amounts['year'])
     plt.show()
 
